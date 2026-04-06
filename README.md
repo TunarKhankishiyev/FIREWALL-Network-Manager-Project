@@ -93,14 +93,14 @@ The address is displayed in the desktop app header. The web UI mirrors all deskt
 
 2. **Build**
    ```bash
-   dotnet build -c Release
+   dotnet build Firewall.csproj
    ```
 
 3. **Run as Administrator**
    ```bash
    # Right-click the executable → "Run as administrator"
    # or from an elevated prompt:
-   dotnet run --project Firewall.csproj
+   dotnet run
    ```
 
 > ⚠️ The application **must** be run as Administrator. Without elevated privileges, all `netsh` calls will fail.
