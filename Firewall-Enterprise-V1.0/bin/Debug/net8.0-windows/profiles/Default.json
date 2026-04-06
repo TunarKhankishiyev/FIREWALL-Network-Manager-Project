@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 0,
+    "Name": "FW-ed1d134d-2bd8-4e98-9552-e863e0c30698",
+    "RemoteIp": "192.168.56.1/32",
+    "Port": 0,
+    "Protocol": "Any",
+    "Action": "Allow",
+    "IsAutoBlock": false,
+    "CreatedAt": "2025-12-12T10:23:20.3591977+04:00",
+    "ExpiresAt": null,
+    "SourceIp": "",
+    "DestinationIp": ""
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\FirewallApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\FirewallApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\FirewallApp.AssemblyInfo.cs
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\FirewallApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AX_firewall\bin\Debug\net8.0-windows\FirewallApp.exe
+C:\Users\user\Desktop\AX_firewall\bin\Debug\net8.0-windows\FirewallApp.deps.json
+C:\Users\user\Desktop\AX_firewall\bin\Debug\net8.0-windows\FirewallApp.runtimeconfig.json
+C:\Users\user\Desktop\AX_firewall\bin\Debug\net8.0-windows\FirewallApp.dll
+C:\Users\user\Desktop\AX_firewall\bin\Debug\net8.0-windows\FirewallApp.pdb
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\FirewallApp.dll
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\refint\FirewallApp.dll
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\FirewallApp.pdb
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\FirewallApp.genruntimeconfig.cache
+C:\Users\user\Desktop\AX_firewall\obj\Debug\net8.0-windows\ref\FirewallApp.dll

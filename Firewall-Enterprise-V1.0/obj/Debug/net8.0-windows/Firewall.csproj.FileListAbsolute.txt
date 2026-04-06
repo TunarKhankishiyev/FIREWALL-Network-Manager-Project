@@ -1,0 +1,305 @@
+C:\Users\user\Desktop\AX_firewall - Copy\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\user\Desktop\AX_firewall - Copy\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\user\Desktop\AX_firewall - Copy\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\user\Desktop\AX_firewall - Copy\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\user\Desktop\AX_firewall - Copy\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\user\Desktop\AX_firewall - Copy\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.3\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\user\Desktop\Firewall_V1.3\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\user\Desktop\Firewall_V1.3\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\user\Desktop\Firewall_V1.3\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.3\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\user\Desktop\Firewall_V1.3\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\user\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\user\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\user\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\user\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.sourcelink.json
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V1.4.1\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\FIREWALL\Firewall_V1.4.3\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.4.3 - Tunar\bin\Debug\net8.0-windows\web\a.txt
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V1.7 Privilage - Copy\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V1.9 Privilage + webping my love\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\obj\Debug\net8.0-windows\Firewall.sourcelink.json
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\user\Desktop\Firewall_V1.9\Firewall_V1.9\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.0\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V2.0\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V2.0\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V2.0\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V2.0\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V2.0\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V2.0\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.0\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V2.0\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.1\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V2.1\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V2.1\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V2.1\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V2.1\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V2.1\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V2.1\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.1\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V2.1\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V2.2_demo\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.3\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V2.3\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V2.3\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V2.3\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V2.3\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V2.3\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V2.3\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.3\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V2.3\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.4\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V2.4\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V2.4\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V2.4\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V2.4\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V2.4\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V2.4\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.4\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V2.4\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V2.5_new_web\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Ayan\Desktop\Me\e\Firewall_V2.5_new_web_stable\Firewall_V2.5_new_web_stable\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.6\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall_V2.6\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall_V2.6\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall_V2.6\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall_V2.6\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall_V2.6\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall_V2.6\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.6\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall_V2.6\obj\Debug\net8.0-windows\ref\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\Firewall.exe
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\web\app.js
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\web\index.html
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\web\style.css
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\Firewall.deps.json
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\Firewall.runtimeconfig.json
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\Firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\Firewall.AssemblyInfoInputs.cache
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\Firewall.AssemblyInfo.cs
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\Firewall.csproj.CoreCompileInputs.cache
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\refint\Firewall.dll
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\Firewall.pdb
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\Firewall.genruntimeconfig.cache
+C:\Users\Tunar\Desktop\Firewall-Enterprise-V1.0\obj\Debug\net8.0-windows\ref\Firewall.dll
