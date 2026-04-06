@@ -202,26 +202,59 @@ Content-Type: application/json
 ## 📁 Project Structure
 
 ```
-├── AppConfig.cs          — Configuration model & JSON persistence
-├── AppSession.cs         — In-memory desktop session (username/role)
-├── AutoBlockEngine.cs    — Background ICMP flood detection & auto-block
-├── FirewallManager.cs    — All netsh.exe wrapper calls
-├── FirewallRuleModel.cs  — Rule data model
-├── Logger.cs             — CSV audit log writer
-├── MainForm.cs           — WinForms main window (4 tabs)
-├── PacketTester.cs       — Ping / TCP / UDP test helpers
-├── PinForm.cs            — Login dialog
-├── Program.cs            — Entry point, auth flow
-├── TimedRule.cs          — Timed rule data model
-├── TimedRuleService.cs   — Background timer that removes expired rules
-├── WebServer.cs          — Embedded HttpListener REST API
-├── web/
-│   ├── index.html        — Single-page web app
-│   ├── app.js            — Vanilla JS frontend logic
-│   └── style.css         — Dark cyber theme CSS
-├── appsettings.json      — Runtime configuration
-├── timed_rules.json      — Persisted timed rule expiry data
-└── profiles/             — Saved rule profile JSON files
+Firewall-Commercial V1.0/
+│
+├── 📄 firewall.sln                   — Solution file
+├── 📄 Firewall.csproj                — Project file (.NET 8 WinForms)
+├── 📄 app.manifest                   — Windows application manifest (UAC elevation)
+│
+├── ── Source Files ──────────────────────────────────────────
+├── AppConfig.cs                      — Configuration model & JSON persistence
+├── AppSession.cs                     — In-memory desktop session (username/role)
+├── AutoBlockEngine.cs                — Background ICMP flood detection & auto-block
+├── FirewallManager.cs                — All netsh.exe wrapper calls
+├── FirewallRuleModel.cs              — Rule data model
+├── Logger.cs                         — CSV audit log writer
+├── MainForm.cs                       — WinForms main window (4 tabs)
+├── MainForm.txt                      — MainForm backup / reference copy
+├── PacketTester.cs                   — Ping / TCP / UDP test helpers
+├── PinForm.cs                        — Login dialog (WinForms)
+├── Program.cs                        — Entry point & authentication flow
+├── TimedRule.cs                      — Timed rule data model
+├── TimedRuleService.cs               — Background timer that removes expired rules
+├── WebServer.cs                      — Embedded HttpListener REST API
+│
+├── web/                              — Web UI source (copied to build output)
+│   ├── index.html                    — Single-page web application
+│   ├── app.js                        — Vanilla JS frontend logic
+│   └── style.css                     — Dark cyber theme CSS
+│
+├── FIX/                              — Patch notes & hotfix logs
+│   └── fixes_2026-03-05_web.txt
+│
+├── bin/Debug/net8.0-windows/         — Build output (not committed)
+│   ├── Firewall.exe                  — Application executable
+│   ├── Firewall.dll
+│   ├── Firewall.deps.json
+│   ├── Firewall.runtimeconfig.json
+│   ├── appsettings.json              — Runtime configuration (auto-copied)
+│   ├── firewall.ico                  — App icon
+│   ├── firewall.png                  — App logo
+│   ├── firewall_log.csv              — Activity log (generated at runtime)
+│   ├── timed_rules.json              — Persisted timed rule expiry data
+│   ├── profiles/                     — Saved rule profile JSON files
+│   │   ├── Default.json
+│   │   └── Lab.json
+│   └── web/                          — Web UI served by embedded HTTP server
+│       ├── index.html
+│       ├── app.js
+│       └── style.css
+│
+└── obj/                              — MSBuild intermediates (not committed)
+    └── Debug/net8.0-windows/
+        ├── ref/
+        ├── refint/
+        └── *.cache / *.cs / *.dll
 ```
 
 ---
