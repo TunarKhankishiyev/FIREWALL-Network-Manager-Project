@@ -98,6 +98,7 @@ The address is displayed in the desktop app header. The web UI mirrors all deskt
 
 3. **Run as Administrator**
    ```bash
+   Firewall-Enterprise-V1.0\bin\Debug\net8.0-windows\Firewall.exe
    # Right-click the executable → "Run as administrator"
    # or from an elevated prompt:
    dotnet run
