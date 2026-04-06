@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Firewall</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<!-- LOGIN -->
+<div id="loginScreen">
+  <div class="login-split">
+    <div class="login-left">
+      <img src="firewall.png" class="login-logo" onerror="this.style.display='none';document.getElementById('logoFb').style.display='flex'"/>
+      <div class="login-logo-placeholder" id="logoFb" style="display:none">🔥</div>
+      <div class="login-appname">FIREWALL</div>
+      <div class="login-sub">Network Security Manager</div>
+      <div class="login-divider"></div>
+      <ul class="login-bullets">
+        <li>Rule-based IP blocking</li>
+        <li>ICMP auto-block engine</li>
+        <li>Timed rules &amp; profiles</li>
+        <li>Real-time activity logs</li>
+      </ul>
+      <div class="login-ver">v2.4 · Protected by Windows Firewall API</div>
+    </div>
+    <div class="login-right" id="loginForm">
+      <button class="login-close" id="loginClose">×</button>
+      <div class="login-heading">Welcome back</div>
+      <div class="login-heading-sub">Sign in to continue</div>
+      <label class="login-field-label" for="loginUser">USERNAME</label>
+      <input class="login-input" id="loginUser" type="text" placeholder="Enter username" autocomplete="username"/>
+      <label class="login-field-label" for="loginPass">PASSWORD</label>
+      <div class="login-pass-wrap">
+        <input class="login-input" id="loginPass" type="password" placeholder="Enter password" autocomplete="current-password"/>
+        <button class="login-eye" id="loginEye" tabindex="-1">👁</button>
+      </div>
+      <div id="loginError"></div>
+      <button class="login-btn" id="loginBtn">SIGN IN &nbsp;→</button>
+      <div class="login-hint">🔒 Session protected · 3 attempts max</div>
+    </div>
+  </div>
+</div>
+
+<!-- APP SHELL -->
+<div id="appShell">
+
+  <!-- HEADER -->
+  <header id="appHeader">
+    <div class="hdr-logo">
+      <img src="firewall.png" style="width:36px;height:36px;object-fit:contain" onerror="this.style.display='none';document.getElementById('hdrIco').style.display='flex'"/>
+      <div class="hdr-logo-icon" id="hdrIco" style="display:none">🔥</div>
+      <div>
+        <div class="hdr-appname">FIREWALL</div>
+        <div class="hdr-appsub">Network Security Manager</div>
+      </div>
+    </div>
+    <div class="hdr-sep"></div>
+    <div class="hdr-protected">● PROTECTED</div>
+    <div class="hdr-right">
+      <span id="userBadge" class="hdr-lan"></span>
+      <button id="btnLogout">Sign Out</button>
+    </div>
+  </header>
+
+  <!-- BODY -->
+  <div id="appBody">
+
+    <!-- SIDEBAR -->
+    <nav id="sidebar">
+      <div class="nav-label">NAVIGATION</div>
+      <button class="nav-btn active" data-tab="rules"><span class="nav-icon">▶</span> Rules</button>
+      <button class="nav-btn" data-tab="tests"><span class="nav-icon">□</span> Packet Tests</button>
+      <button class="nav-btn" data-tab="firewall"><span class="nav-icon">≡</span> Firewall</button>
+      <button class="nav-btn" data-tab="logs"><span class="nav-icon">≡</span> Activity Logs</button>
+      <div class="nav-bottom"><span id="roleBadge">● ADMIN</span></div>
+    </nav>
+
+    <!-- CONTENT -->
+    <div id="appContent">
+
+      <!-- RULES -->
+      <div id="tab-rules" class="tab-panel active">
+        <div class="input-bar admin-only">
+          <div class="field-group">
+            <span class="field-lbl">REMOTE IP / CIDR</span>
+            <input class="fw-input" id="ip" placeholder="e.g. 192.168.1.1" style="width:155px"/>
+          </div>
+          <div class="field-group">
+            <span class="field-lbl">PORT</span>
+            <input class="fw-input" id="port" placeholder="0=all" style="width:68px"/>
+          </div>
+          <div class="field-group">
+            <span class="field-lbl">PROTOCOL</span>
+            <select class="fw-select" id="protocol">
+              <option>Any</option><option>TCP</option><option>UDP</option><option>ICMP</option>
+            </select>
+          </div>
+          <div class="field-group">
+            <span class="field-lbl">ACTION</span>
+            <select class="fw-select" id="action">
+              <option>Block</option><option>Allow</option>
+            </select>
+          </div>
+          <div class="field-group">
+            <span class="field-lbl">DURATION (MIN)</span>
+            <input class="fw-input" id="minutes" placeholder="10" style="width:68px"/>
+          </div>
+          <label class="perm-check" style="margin-top:15px">
+            <input type="checkbox" id="permanent" checked/> Permanent
+          </label>
+          <div style="margin-top:15px;display:flex;gap:8px">
+            <button class="btn btn-accent" id="btnAdd">＋ Add Rule</button>
+            <button class="btn btn-danger"  id="btnBlockAll">⚡ Block ALL</button>
+          </div>
+        </div>
+        <div class="title-bar">
+          <h2>Rules Management</h2>
+          <p>Active inbound firewall rules on this machine</p>
+        </div>
+        <div class="fw-table-wrap">
+          <table class="fw-table">
+            <thead><tr>
+              <th>#</th><th>REMOTE IP</th><th>PORT</th>
+              <th>PROTOCOL</th><th>ACTION</th><th>EXPIRES</th><th></th>
+            </tr></thead>
+            <tbody id="rulesBody"></tbody>
+          </table>
+          <div style="padding:10px 0">
+            <button class="btn btn-ghost" id="btnToggleRules" style="display:none;font-size:11px">Show more</button>
+          </div>
+        </div>
+        <div class="bottom-bar">
+          <button class="btn btn-ghost" id="btnExportRules" style="font-size:11px">↑ Export</button>
+          <button class="btn btn-ghost" id="btnImportRules" style="font-size:11px">↓ Import</button>
+          <div style="width:1px;height:22px;background:var(--border)"></div>
+          <select class="fw-select" id="cmbProfile" style="font-size:11px">
+            <option>Default</option><option>Lab</option><option>Game</option>
+          </select>
+          <button class="btn btn-success" id="btnSaveProfile" style="font-size:11px">Save Profile</button>
+          <button class="btn btn-ghost"   id="btnLoadProfile" style="font-size:11px">Load Profile</button>
+          <span id="msg" style="font-size:11px;color:var(--dim);margin-left:4px"></span>
+        </div>
+      </div>
+
+      <!-- TESTS -->
+      <div id="tab-tests" class="tab-panel">
+        <div class="test-bar">
+          <div class="field-group">
+            <span class="field-lbl">TARGET IP / HOSTNAME</span>
+            <input class="fw-input" id="pingHost" placeholder="e.g. 8.8.8.8" style="width:220px"/>
+          </div>
+          <div class="field-group">
+            <span class="field-lbl">COUNT</span>
+            <input class="fw-input" id="pingCount" placeholder="4" style="width:70px"/>
+          </div>
+          <div style="margin-top:15px">
+            <button class="btn btn-accent" id="btnPing">⬡ Ping</button>
+          </div>
+        </div>
+        <div class="title-bar">
+          <h2>Packet Testing</h2>
+          <p>Ping, TCP and UDP connectivity diagnostics</p>
+        </div>
+        <pre id="pingOut">Ready. Enter a host above and click Ping.</pre>
+      </div>
+
+      <!-- FIREWALL -->
+      <div id="tab-firewall" class="tab-panel">
+        <div class="title-bar">
+          <h2>Firewall Control</h2>
+          <p>Manage Windows Firewall and application rule states</p>
+        </div>
+        <div class="fw-cards-grid">
+          <div class="fw-ctrl-card admin-only">
+            <div class="card-title">WINDOWS FIREWALL</div>
+            <div class="card-body">
+              <div class="card-status" id="fwWinStatus">Status: —</div>
+              <div class="card-btns">
+                <button class="btn btn-success" id="btnWinOn">Enable Win FW</button>
+                <button class="btn btn-danger"  id="btnWinOff">Disable Win FW</button>
+              </div>
+              <div class="card-note">Controls the Windows built-in firewall service for all network profiles.</div>
+            </div>
+          </div>
+          <div class="fw-ctrl-card admin-only">
+            <div class="card-title">APP RULES (FW-)</div>
+            <div class="card-body">
+              <div class="card-status" id="fwAppStatus">Status: —</div>
+              <div class="card-btns">
+                <button class="btn btn-success" id="btnAppOn">Enable All Rules</button>
+                <button class="btn btn-warning" id="btnAppOff">Disable All Rules</button>
+              </div>
+              <div class="card-note">Enables or disables only FW- rules created by this application.</div>
+            </div>
+          </div>
+          <div class="fw-ctrl-card">
+            <div class="card-title">ICMP AUTO-BLOCK</div>
+            <div class="card-body">
+              <div class="card-status" style="color:var(--success)">● Running on desktop</div>
+              <div class="card-note">Auto-block engine monitors ICMP packets and blocks IPs exceeding the threshold. Configure via the desktop application.</div>
+            </div>
+          </div>
+          <div class="fw-ctrl-card builtin-card admin-only">
+            <div class="card-title">WINDOWS BUILT-IN RULES</div>
+            <div class="card-body">
+              <div class="builtin-desc">
+                <p>Disable all Windows built-in inbound rules so only your <strong style="color:var(--text)">FW-</strong> rules control traffic. Default inbound policy is set to <strong style="color:var(--danger)">BLOCK</strong>.</p>
+                <p class="warn">⚠ May break RDP, file sharing and other Windows services.</p>
+              </div>
+              <div class="builtin-actions">
+                <button class="btn btn-danger"  id="btnDisableBuiltin">⚡ Disable All Built-in Rules</button>
+                <button class="btn btn-warning" id="btnRestoreBuiltin">↩ Restore Built-in Rules</button>
+              </div>
+            </div>
+          </div>
+          <div id="builtinStatus" style="grid-column:1/-1;font-size:12px;color:var(--dim);padding:0 4px 8px"></div>
+        </div>
+      </div>
+
+      <!-- LOGS -->
+      <div id="tab-logs" class="tab-panel">
+        <div class="log-bar">
+          <button class="btn btn-accent" id="btnRefreshLogs" style="font-size:12px">⟳ Refresh</button>
+        </div>
+        <div class="title-bar">
+          <h2>Activity Logs</h2>
+          <p>Full audit trail of firewall events and changes</p>
+        </div>
+        <div class="fw-table-wrap">
+          <table class="fw-table">
+            <thead><tr><th>TIME</th><th>TYPE</th><th>MESSAGE</th></tr></thead>
+            <tbody id="logsBody"></tbody>
+          </table>
+          <div style="padding:10px 0">
+            <button class="btn btn-ghost" id="btnToggleLogs" style="display:none;font-size:11px">Show more</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="msgBar"></div>
+<script src="app.js"></script>
+</body>
+</html>

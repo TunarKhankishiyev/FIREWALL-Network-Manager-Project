@@ -1,0 +1,628 @@
+Timestamp;Type;Details
+
+2025-12-07 06:14:04;PING;PING 192.168.1.69 => Success, time=89ms
+2025-12-07 06:14:04;PING;PING 192.168.1.69 => Success, time=31ms
+2025-12-07 06:14:05;PING;PING 192.168.1.69 => Success, time=71ms
+2025-12-10 05:30:43;WINFW;Windows Firewall ENABLED
+2025-12-10 06:03:54;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-000a85f3-c6bf-4637-a5ab-77ef39e674fd, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-10 06:04:14;RULE;REMOVED Name=FW-BlockAll-000a85f3-c6bf-4637-a5ab-77ef39e674fd, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-10 06:04:28;RULE;ADDED Name=FW-a067680c-cf5f-4f29-8568-57ed5adfe69c, IP=192.168.1.69, Port=12, Proto=Any, Act=Block
+2025-12-11 20:58:08;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-612bf888-4699-4015-b7d5-680690279932, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-11 21:24:11;RULE;REMOVED Name=FW-5cc2e0ed-2eb0-431a-b01e-fc39c879227d, IP=192.168.56.1/32, Port=22, Proto=TCP, Act=Block
+2025-12-11 21:24:13;RULE;REMOVED Name=FW-BlockAll-612bf888-4699-4015-b7d5-680690279932, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:18;RULE;ADDED Name=FW-d99540ca-e61c-44be-bd5c-92e8e89f42c2, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:19;RULE;ADDED Name=FW-8eed993b-3e7d-4171-8037-e0bdddbd700f, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:20;RULE;ADDED Name=FW-c8589286-6c4b-46e8-bffe-ccee31429504, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:21;RULE;ADDED Name=FW-1bfdbf1a-f6df-4041-b0e8-7e1821250030, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:21;RULE;ADDED Name=FW-0ac77cd6-ef7b-4100-8b64-fbeeff8d1cd5, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:21;RULE;ADDED Name=FW-3aa88a26-dbf1-40a1-8e7b-9d9ca06b1049, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:22;RULE;ADDED Name=FW-84a609bd-e979-4dbb-b18a-a7d3a1d6f739, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:22;RULE;ADDED Name=FW-0132b5fa-43cb-43a0-8ffd-eb57d430236a, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:22;RULE;ADDED Name=FW-1061b158-fa4d-41bc-99ff-fe003d7fa9e9, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:23;RULE;ADDED Name=FW-59678da5-e0df-4660-b375-39f29dff06ad, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:24;RULE;ADDED Name=FW-08357729-9545-442d-8424-109012ed4c26, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:25;RULE;ADDED Name=FW-11f7b1d5-58b3-440d-89c1-e75a64d65a05, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:25;RULE;ADDED Name=FW-226025d0-52d1-41ce-9639-baa72311fcf5, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:25;RULE;ADDED Name=FW-d3d31a85-3d09-49aa-9da0-2edcf3ac45a6, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:26;RULE;ADDED Name=FW-84c4f929-e269-4c65-93ab-668b331aa0c1, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:27;RULE;ADDED Name=FW-c7142813-ff56-4df5-a54b-a079a1994b92, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:27;RULE;ADDED Name=FW-f910da9f-f680-40a5-b4fb-ead2cfdd6e5c, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:28;RULE;ADDED Name=FW-5503054d-fc73-494f-a2ee-c5238f297cff, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:28;RULE;ADDED Name=FW-0eb86926-3032-4b53-bbef-60aeaa73661d, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:28;RULE;ADDED Name=FW-2ced66c4-0879-42ef-a35a-c29955bdcef8, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:29;RULE;ADDED Name=FW-15583919-8b34-4093-a633-0fb5fbf3fb50, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:29;RULE;ADDED Name=FW-2b48fe65-58f8-4ded-ae2f-c397478a685e, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:30;RULE;ADDED Name=FW-4c7dc146-d0d7-4d12-8943-d4ae4107e003, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:30;RULE;ADDED Name=FW-5f2d1938-5203-40e1-b474-d0b63f6e7320, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:31;RULE;ADDED Name=FW-7b366fba-b43c-4ad4-8315-677b81e63720, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:31;RULE;ADDED Name=FW-c52455e0-87c3-4de1-b6f3-a042ca3f6d79, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:39;RULE;REMOVED Name=FW-c52455e0-87c3-4de1-b6f3-a042ca3f6d79, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:40;RULE;REMOVED Name=FW-7b366fba-b43c-4ad4-8315-677b81e63720, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:41;RULE;REMOVED Name=FW-5f2d1938-5203-40e1-b474-d0b63f6e7320, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:41;RULE;REMOVED Name=FW-4c7dc146-d0d7-4d12-8943-d4ae4107e003, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:42;RULE;REMOVED Name=FW-2b48fe65-58f8-4ded-ae2f-c397478a685e, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:42;RULE;REMOVED Name=FW-15583919-8b34-4093-a633-0fb5fbf3fb50, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:42;RULE;REMOVED Name=FW-2ced66c4-0879-42ef-a35a-c29955bdcef8, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:43;RULE;REMOVED Name=FW-0eb86926-3032-4b53-bbef-60aeaa73661d, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:44;RULE;REMOVED Name=FW-5503054d-fc73-494f-a2ee-c5238f297cff, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:44;RULE;REMOVED Name=FW-f910da9f-f680-40a5-b4fb-ead2cfdd6e5c, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:45;RULE;REMOVED Name=FW-c7142813-ff56-4df5-a54b-a079a1994b92, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:45;RULE;REMOVED Name=FW-84c4f929-e269-4c65-93ab-668b331aa0c1, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:46;RULE;REMOVED Name=FW-d3d31a85-3d09-49aa-9da0-2edcf3ac45a6, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:46;RULE;REMOVED Name=FW-226025d0-52d1-41ce-9639-baa72311fcf5, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:46;RULE;REMOVED Name=FW-11f7b1d5-58b3-440d-89c1-e75a64d65a05, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:47;RULE;REMOVED Name=FW-08357729-9545-442d-8424-109012ed4c26, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:47;RULE;REMOVED Name=FW-59678da5-e0df-4660-b375-39f29dff06ad, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:48;RULE;REMOVED Name=FW-1061b158-fa4d-41bc-99ff-fe003d7fa9e9, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:48;RULE;REMOVED Name=FW-0132b5fa-43cb-43a0-8ffd-eb57d430236a, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:49;RULE;REMOVED Name=FW-84a609bd-e979-4dbb-b18a-a7d3a1d6f739, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:50;RULE;REMOVED Name=FW-3aa88a26-dbf1-40a1-8e7b-9d9ca06b1049, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:50;RULE;REMOVED Name=FW-0ac77cd6-ef7b-4100-8b64-fbeeff8d1cd5, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:50;RULE;REMOVED Name=FW-1bfdbf1a-f6df-4041-b0e8-7e1821250030, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:51;RULE;REMOVED Name=FW-c8589286-6c4b-46e8-bffe-ccee31429504, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:51;RULE;REMOVED Name=FW-8eed993b-3e7d-4171-8037-e0bdddbd700f, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:50:51;RULE;REMOVED Name=FW-d99540ca-e61c-44be-bd5c-92e8e89f42c2, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 09:59:22;INFO;ICMP auto-block enabled.
+2025-12-12 09:59:35;RULE;ADDED Name=FW-26ede1d7-88f9-4e44-8da5-ed1289a6dc4e, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:59:36;RULE;ADDED Name=FW-d08c78be-7874-44a0-a589-fc9d5ddbe692, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:59:36;RULE;ADDED Name=FW-83020be5-7f22-4512-8821-2d7ec8195e0d, IP=192.168.12.1, Port=0, Proto=Any, Act=Block
+2025-12-12 09:59:45;INFO;ICMP auto-block disabled.
+2025-12-12 09:59:50;INFO;ICMP auto-block enabled.
+2025-12-12 10:00:13;RULE;ADDED Name=FW-b7bca080-c8d4-44c8-b382-799060416d57, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:14;RULE;ADDED Name=FW-e1407e01-50d6-4d28-a4e7-506a4987cc2e, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:15;RULE;ADDED Name=FW-9798e20e-d312-4450-b0f5-bedf607c3bc1, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:15;RULE;ADDED Name=FW-04cd4e81-e2fe-4037-9e7e-d2021afd9a25, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:16;RULE;ADDED Name=FW-e20edff5-9e92-417a-a233-6943d216b962, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:16;RULE;ADDED Name=FW-72ac5f5b-63fe-4806-aac6-4ec993789fc6, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:17;RULE;ADDED Name=FW-1dc8c3c4-d332-4bf0-90c8-ddb16c6a47fa, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:17;RULE;ADDED Name=FW-309b1510-f5e0-401a-b6a9-8c8b71719eb8, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:17;RULE;ADDED Name=FW-ba43a970-5ef8-4388-b48e-cc0fa5977294, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:18;RULE;ADDED Name=FW-358e259b-b7df-4089-9be2-f699d213f731, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:19;RULE;ADDED Name=FW-1e007395-ef0e-479e-aa39-fe4622cd18f3, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:19;RULE;ADDED Name=FW-81322090-fdab-44bc-a815-30bae919ddee, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:20;RULE;ADDED Name=FW-7cac8597-2878-4078-a98a-09509a699028, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:20;RULE;ADDED Name=FW-3517d883-2e32-40bb-a60a-3a5098deb17f, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:20;RULE;ADDED Name=FW-16ebb67c-2ed4-4db9-96a5-362c15af3432, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:21;RULE;ADDED Name=FW-c60cd787-5a7f-4515-ac3f-f33f38d1ea48, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:21;RULE;ADDED Name=FW-6e08dfb8-9a89-4e77-9ded-e40722572a1a, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:22;RULE;ADDED Name=FW-aeb370c0-979e-446d-b5a0-1b924f82c583, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:23;RULE;ADDED Name=FW-7de060f3-9dfc-4d6a-89eb-b9dfe421d9e3, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:23;RULE;ADDED Name=FW-4f0d695b-74f3-4d6d-98a2-0b257e7c13f8, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:24;RULE;ADDED Name=FW-3257f073-5427-4e9d-8a3f-1a9612ee77ab, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:24;RULE;ADDED Name=FW-12e4c54f-4bb4-49fd-9147-fad2e1d1259d, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:25;RULE;ADDED Name=FW-572bc889-54b3-4d57-91d0-4a76b67e6019, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:25;RULE;ADDED Name=FW-d96f4cc9-0e56-47c0-a514-bc17fd8b837f, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:26;RULE;ADDED Name=FW-d504cbcf-398c-4e0b-b18a-54c73047d085, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:26;RULE;ADDED Name=FW-8e9f6199-bb47-4888-b489-0cb02e3f9f65, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:26;RULE;ADDED Name=FW-42b51580-a37e-4bc9-8f62-ac4f0ff6b466, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:27;RULE;ADDED Name=FW-37a7a0e6-ef7e-41d1-8098-a04e4f27a4cd, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:27;RULE;ADDED Name=FW-466cf3bd-094f-4495-a7ee-b1cc677bd067, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:28;RULE;ADDED Name=FW-58fdd6b6-228e-4c4f-9106-da40d11bc441, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:28;RULE;ADDED Name=FW-7a6629d7-44f6-4fb8-bbba-0f0deab0adc6, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:29;RULE;ADDED Name=FW-e0abece9-0e58-4949-a08a-e4a7ed93ef6d, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:29;RULE;ADDED Name=FW-0be93270-3ac9-4d3c-bf8f-532f2a61e571, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:29;RULE;ADDED Name=FW-9c751894-4509-4e50-85e3-19855ee63ff3, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:30;RULE;ADDED Name=FW-a1e3bae1-1162-45bb-8ca3-7ec9abbbe742, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:30;RULE;ADDED Name=FW-0e12f866-0508-4deb-98f6-c2e75d6ca0d6, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:31;RULE;ADDED Name=FW-181ce6c1-cea0-43eb-b854-4108ee94c1c1, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:31;RULE;ADDED Name=FW-cd95a05c-17aa-4f31-a8db-2b93f3b7f3ae, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:32;RULE;ADDED Name=FW-c12ccede-69a8-4033-9c88-84156d127362, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:32;RULE;ADDED Name=FW-018f3fdf-4130-4125-9af4-3aaf52829daa, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:32;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-27fdf94d-4c39-4920-b911-f588bc3fa4a7, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:33;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-330ecfef-b9fe-44fe-aef2-748b59f1bc0c, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:34;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-990b596b-9e6a-449b-904d-3eb3df94767c, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:34;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-cb22e834-2461-40e8-a562-571af4e0c33b, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:35;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-31f24239-af50-4a46-a1d1-1ba5f4fb8efb, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:35;RULE;REMOVED Name=FW-BlockAll-31f24239-af50-4a46-a1d1-1ba5f4fb8efb, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:36;RULE;REMOVED Name=FW-BlockAll-cb22e834-2461-40e8-a562-571af4e0c33b, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:36;RULE;REMOVED Name=FW-BlockAll-990b596b-9e6a-449b-904d-3eb3df94767c, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:37;RULE;REMOVED Name=FW-BlockAll-330ecfef-b9fe-44fe-aef2-748b59f1bc0c, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:37;RULE;REMOVED Name=FW-BlockAll-27fdf94d-4c39-4920-b911-f588bc3fa4a7, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:38;RULE;REMOVED Name=FW-018f3fdf-4130-4125-9af4-3aaf52829daa, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:39;RULE;REMOVED Name=FW-c12ccede-69a8-4033-9c88-84156d127362, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:39;RULE;REMOVED Name=FW-cd95a05c-17aa-4f31-a8db-2b93f3b7f3ae, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:40;RULE;REMOVED Name=FW-181ce6c1-cea0-43eb-b854-4108ee94c1c1, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:40;RULE;REMOVED Name=FW-0e12f866-0508-4deb-98f6-c2e75d6ca0d6, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:41;RULE;REMOVED Name=FW-a1e3bae1-1162-45bb-8ca3-7ec9abbbe742, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:41;RULE;REMOVED Name=FW-9c751894-4509-4e50-85e3-19855ee63ff3, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:42;RULE;REMOVED Name=FW-0be93270-3ac9-4d3c-bf8f-532f2a61e571, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:43;RULE;REMOVED Name=FW-e0abece9-0e58-4949-a08a-e4a7ed93ef6d, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:43;RULE;REMOVED Name=FW-7a6629d7-44f6-4fb8-bbba-0f0deab0adc6, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:44;RULE;REMOVED Name=FW-58fdd6b6-228e-4c4f-9106-da40d11bc441, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:44;RULE;REMOVED Name=FW-466cf3bd-094f-4495-a7ee-b1cc677bd067, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:45;RULE;REMOVED Name=FW-37a7a0e6-ef7e-41d1-8098-a04e4f27a4cd, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:46;RULE;REMOVED Name=FW-42b51580-a37e-4bc9-8f62-ac4f0ff6b466, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:46;RULE;REMOVED Name=FW-8e9f6199-bb47-4888-b489-0cb02e3f9f65, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:47;RULE;REMOVED Name=FW-d504cbcf-398c-4e0b-b18a-54c73047d085, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:47;RULE;REMOVED Name=FW-d96f4cc9-0e56-47c0-a514-bc17fd8b837f, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:47;RULE;REMOVED Name=FW-572bc889-54b3-4d57-91d0-4a76b67e6019, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:48;RULE;REMOVED Name=FW-12e4c54f-4bb4-49fd-9147-fad2e1d1259d, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:49;RULE;REMOVED Name=FW-3257f073-5427-4e9d-8a3f-1a9612ee77ab, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:49;RULE;REMOVED Name=FW-4f0d695b-74f3-4d6d-98a2-0b257e7c13f8, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:50;RULE;REMOVED Name=FW-7de060f3-9dfc-4d6a-89eb-b9dfe421d9e3, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:50;RULE;REMOVED Name=FW-aeb370c0-979e-446d-b5a0-1b924f82c583, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:51;RULE;REMOVED Name=FW-6e08dfb8-9a89-4e77-9ded-e40722572a1a, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:51;RULE;REMOVED Name=FW-c60cd787-5a7f-4515-ac3f-f33f38d1ea48, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:51;RULE;REMOVED Name=FW-16ebb67c-2ed4-4db9-96a5-362c15af3432, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:52;RULE;REMOVED Name=FW-3517d883-2e32-40bb-a60a-3a5098deb17f, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:53;RULE;REMOVED Name=FW-7cac8597-2878-4078-a98a-09509a699028, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:54;RULE;REMOVED Name=FW-81322090-fdab-44bc-a815-30bae919ddee, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:54;RULE;REMOVED Name=FW-1e007395-ef0e-479e-aa39-fe4622cd18f3, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:55;RULE;REMOVED Name=FW-358e259b-b7df-4089-9be2-f699d213f731, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:55;RULE;REMOVED Name=FW-ba43a970-5ef8-4388-b48e-cc0fa5977294, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:56;RULE;REMOVED Name=FW-309b1510-f5e0-401a-b6a9-8c8b71719eb8, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:56;RULE;REMOVED Name=FW-1dc8c3c4-d332-4bf0-90c8-ddb16c6a47fa, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:57;RULE;REMOVED Name=FW-72ac5f5b-63fe-4806-aac6-4ec993789fc6, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:57;RULE;REMOVED Name=FW-e20edff5-9e92-417a-a233-6943d216b962, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:58;RULE;REMOVED Name=FW-04cd4e81-e2fe-4037-9e7e-d2021afd9a25, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:58;RULE;REMOVED Name=FW-9798e20e-d312-4450-b0f5-bedf607c3bc1, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:58;RULE;REMOVED Name=FW-e1407e01-50d6-4d28-a4e7-506a4987cc2e, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:59;RULE;REMOVED Name=FW-b7bca080-c8d4-44c8-b382-799060416d57, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:59;RULE;REMOVED Name=FW-83020be5-7f22-4512-8821-2d7ec8195e0d, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:00:59;RULE;REMOVED Name=FW-d08c78be-7874-44a0-a589-fc9d5ddbe692, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:01:00;RULE;REMOVED Name=FW-26ede1d7-88f9-4e44-8da5-ed1289a6dc4e, IP=192.168.12.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:01:15;INFO;Timed rule expired and removed: FW-d99540ca-e61c-44be-bd5c-92e8e89f42c2
+2025-12-12 10:01:15;INFO;Timed rule expired and removed: FW-8eed993b-3e7d-4171-8037-e0bdddbd700f
+2025-12-12 10:01:15;INFO;Timed rule expired and removed: FW-c8589286-6c4b-46e8-bffe-ccee31429504
+2025-12-12 10:01:15;INFO;Timed rule expired and removed: FW-1bfdbf1a-f6df-4041-b0e8-7e1821250030
+2025-12-12 10:01:15;INFO;Timed rule expired and removed: FW-0ac77cd6-ef7b-4100-8b64-fbeeff8d1cd5
+2025-12-12 10:01:15;INFO;Timed rule expired and removed: FW-3aa88a26-dbf1-40a1-8e7b-9d9ca06b1049
+2025-12-12 10:01:15;INFO;Timed rule expired and removed: FW-84a609bd-e979-4dbb-b18a-a7d3a1d6f739
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-0132b5fa-43cb-43a0-8ffd-eb57d430236a
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-1061b158-fa4d-41bc-99ff-fe003d7fa9e9
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-59678da5-e0df-4660-b375-39f29dff06ad
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-08357729-9545-442d-8424-109012ed4c26
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-11f7b1d5-58b3-440d-89c1-e75a64d65a05
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-226025d0-52d1-41ce-9639-baa72311fcf5
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-d3d31a85-3d09-49aa-9da0-2edcf3ac45a6
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-84c4f929-e269-4c65-93ab-668b331aa0c1
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-c7142813-ff56-4df5-a54b-a079a1994b92
+2025-12-12 10:01:16;INFO;Timed rule expired and removed: FW-f910da9f-f680-40a5-b4fb-ead2cfdd6e5c
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-5503054d-fc73-494f-a2ee-c5238f297cff
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-0eb86926-3032-4b53-bbef-60aeaa73661d
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-2ced66c4-0879-42ef-a35a-c29955bdcef8
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-15583919-8b34-4093-a633-0fb5fbf3fb50
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-2b48fe65-58f8-4ded-ae2f-c397478a685e
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-4c7dc146-d0d7-4d12-8943-d4ae4107e003
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-5f2d1938-5203-40e1-b474-d0b63f6e7320
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-7b366fba-b43c-4ad4-8315-677b81e63720
+2025-12-12 10:01:17;INFO;Timed rule expired and removed: FW-c52455e0-87c3-4de1-b6f3-a042ca3f6d79
+2025-12-12 10:02:05;RULE;ADDED Name=FW-ecbc6d94-1081-4b98-90b9-5a068f30ca8c, IP=192.168.56.1, Port=0, Proto=Any, Act=Block
+2025-12-12 10:02:20;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:20;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:20;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:20;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:21;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:21;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:21;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:21;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:21;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:21;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:22;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:22;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:22;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:22;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:22;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:23;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:23;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:23;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:23;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:02:23;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:25;RULE;REMOVED Name=FW-ecbc6d94-1081-4b98-90b9-5a068f30ca8c, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Block
+2025-12-12 10:08:39;RULE;ADDED Name=FW-212fcd0a-4723-42e1-8510-a1548035b397, IP=192.168.56.1, Port=0, Proto=Any, Act=Allow
+2025-12-12 10:08:40;RULE;ADDED Name=FW-1b17a591-44d7-4ca9-aafb-02261ad0e5bc, IP=192.168.56.1, Port=0, Proto=Any, Act=Allow
+2025-12-12 10:08:41;RULE;ADDED Name=FW-88733a1e-313b-4c1f-b989-206b53bea61c, IP=192.168.56.1, Port=0, Proto=Any, Act=Allow
+2025-12-12 10:08:55;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:56;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:56;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:57;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:57;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:57;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:57;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:57;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:58;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:58;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:58;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:58;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:58;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:08:59;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:06;INFO;ICMP auto-block enabled.
+2025-12-12 10:09:09;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:09;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:09;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:09;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:10;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:10;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:10;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:10;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:10;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:11;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:11;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:11;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:11;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:11;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:12;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:12;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:12;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:12;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:12;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:12;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:13;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:17;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:17;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:17;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:17;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:17;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:18;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:18;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:18;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:18;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:18;PING;PING 192.168.56.1 => Success, time=0ms
+2025-12-12 10:09:30;TCPTEST;TCP 192.168.56.1:22 => FAILED
+2025-12-12 10:09:30;TCPTEST;TCP 192.168.56.1:22 => FAILED
+2025-12-12 10:09:32;TCPTEST;TCP 192.168.56.1:22 => FAILED
+2025-12-12 10:09:32;TCPTEST;TCP 192.168.56.1:22 => FAILED
+2025-12-12 10:09:33;TCPTEST;TCP 192.168.56.1:22 => FAILED
+2025-12-12 10:09:33;TCPTEST;TCP 192.168.56.1:22 => FAILED
+2025-12-12 10:09:34;TCPTEST;TCP 192.168.56.1:22 => FAILED
+2025-12-12 10:09:34;TCPTEST;TCP 192.168.56.1:22 => FAILED
+2025-12-12 10:09:57;INFO;Timed rule expired and removed: FW-26ede1d7-88f9-4e44-8da5-ed1289a6dc4e
+2025-12-12 10:09:57;INFO;Timed rule expired and removed: FW-d08c78be-7874-44a0-a589-fc9d5ddbe692
+2025-12-12 10:09:57;INFO;Timed rule expired and removed: FW-83020be5-7f22-4512-8821-2d7ec8195e0d
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-b7bca080-c8d4-44c8-b382-799060416d57
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-e1407e01-50d6-4d28-a4e7-506a4987cc2e
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-9798e20e-d312-4450-b0f5-bedf607c3bc1
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-04cd4e81-e2fe-4037-9e7e-d2021afd9a25
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-e20edff5-9e92-417a-a233-6943d216b962
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-72ac5f5b-63fe-4806-aac6-4ec993789fc6
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-1dc8c3c4-d332-4bf0-90c8-ddb16c6a47fa
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-309b1510-f5e0-401a-b6a9-8c8b71719eb8
+2025-12-12 10:10:57;INFO;Timed rule expired and removed: FW-ba43a970-5ef8-4388-b48e-cc0fa5977294
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-358e259b-b7df-4089-9be2-f699d213f731
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-1e007395-ef0e-479e-aa39-fe4622cd18f3
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-81322090-fdab-44bc-a815-30bae919ddee
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-7cac8597-2878-4078-a98a-09509a699028
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-3517d883-2e32-40bb-a60a-3a5098deb17f
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-16ebb67c-2ed4-4db9-96a5-362c15af3432
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-c60cd787-5a7f-4515-ac3f-f33f38d1ea48
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-6e08dfb8-9a89-4e77-9ded-e40722572a1a
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-aeb370c0-979e-446d-b5a0-1b924f82c583
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-7de060f3-9dfc-4d6a-89eb-b9dfe421d9e3
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-4f0d695b-74f3-4d6d-98a2-0b257e7c13f8
+2025-12-12 10:10:58;INFO;Timed rule expired and removed: FW-3257f073-5427-4e9d-8a3f-1a9612ee77ab
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-12e4c54f-4bb4-49fd-9147-fad2e1d1259d
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-572bc889-54b3-4d57-91d0-4a76b67e6019
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-d96f4cc9-0e56-47c0-a514-bc17fd8b837f
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-d504cbcf-398c-4e0b-b18a-54c73047d085
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-8e9f6199-bb47-4888-b489-0cb02e3f9f65
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-42b51580-a37e-4bc9-8f62-ac4f0ff6b466
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-37a7a0e6-ef7e-41d1-8098-a04e4f27a4cd
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-466cf3bd-094f-4495-a7ee-b1cc677bd067
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-58fdd6b6-228e-4c4f-9106-da40d11bc441
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-7a6629d7-44f6-4fb8-bbba-0f0deab0adc6
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-e0abece9-0e58-4949-a08a-e4a7ed93ef6d
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-0be93270-3ac9-4d3c-bf8f-532f2a61e571
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-9c751894-4509-4e50-85e3-19855ee63ff3
+2025-12-12 10:10:59;INFO;Timed rule expired and removed: FW-a1e3bae1-1162-45bb-8ca3-7ec9abbbe742
+2025-12-12 10:11:00;INFO;Timed rule expired and removed: FW-0e12f866-0508-4deb-98f6-c2e75d6ca0d6
+2025-12-12 10:11:00;INFO;Timed rule expired and removed: FW-181ce6c1-cea0-43eb-b854-4108ee94c1c1
+2025-12-12 10:11:00;INFO;Timed rule expired and removed: FW-cd95a05c-17aa-4f31-a8db-2b93f3b7f3ae
+2025-12-12 10:11:00;INFO;Timed rule expired and removed: FW-c12ccede-69a8-4033-9c88-84156d127362
+2025-12-12 10:11:00;INFO;Timed rule expired and removed: FW-018f3fdf-4130-4125-9af4-3aaf52829daa
+2025-12-12 10:12:57;INFO;Timed rule expired and removed: FW-ecbc6d94-1081-4b98-90b9-5a068f30ca8c
+2025-12-12 10:18:57;INFO;Timed rule expired and removed: FW-212fcd0a-4723-42e1-8510-a1548035b397
+2025-12-12 10:18:57;INFO;Timed rule expired and removed: FW-1b17a591-44d7-4ca9-aafb-02261ad0e5bc
+2025-12-12 10:18:57;INFO;Timed rule expired and removed: FW-88733a1e-313b-4c1f-b989-206b53bea61c
+2025-12-12 10:22:42;RULE;ADDED Name=FW-c22ee117-8714-43d3-951c-e847738e10a5, IP=192.168.56.1, Port=0, Proto=Any, Act=Allow
+2025-12-12 10:23:04;RULE;REMOVED Name=FW-4aaeb5f7-bc49-4fea-bde9-6c73d3cc2818, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Allow
+2025-12-12 10:33:25;INFO;Timed rule expired and removed: FW-c22ee117-8714-43d3-951c-e847738e10a5
+2025-12-12 11:00:54;INFO;ICMP auto-block enabled.
+2025-12-12 12:26:08;RULE;REMOVED Name=FW-5fdc4480-8417-4d4b-8de6-a8566bef840a, IP=192.168.56.1/32, Port=0, Proto=22, Act=Allow
+2025-12-12 12:27:02;RULE;ADDED Name=FW-e0dbd9dd-0cc0-430d-b0c4-4dd753f03aea, IP=127.0.0.1, Port=0, Proto=Any, Act=Allow
+2025-12-12 12:27:03;RULE;ADDED Name=FW-1361067e-21ce-4237-954b-0cc23f198d3a, IP=127.0.0.1, Port=0, Proto=Any, Act=Allow
+2025-12-12 12:35:22;APPFW;App firewall ENABLED
+2025-12-12 12:35:23;APPFW;App firewall ENABLED
+2025-12-12 12:35:26;RULE;ADDED Name=FW-7eff650f-fb7a-4314-85d1-6adfa1bc7927, IP=127.0.0.1, Port=0, Proto=Any, Act=Allow
+2025-12-12 12:35:27;RULE;ADDED Name=FW-88d1b063-42d3-4477-93fa-2bc056841d80, IP=127.0.0.1, Port=0, Proto=Any, Act=Allow
+2025-12-12 12:37:03;INFO;Timed rule expired and removed: FW-e0dbd9dd-0cc0-430d-b0c4-4dd753f03aea
+2025-12-12 12:38:03;INFO;Timed rule expired and removed: FW-1361067e-21ce-4237-954b-0cc23f198d3a
+2025-12-12 12:38:55;RULE;REMOVED Name=FW-88d1b063-42d3-4477-93fa-2bc056841d80, IP=127.0.0.1/32, Port=0, Proto=Any, Act=Allow
+2025-12-12 12:38:56;RULE;REMOVED Name=FW-7eff650f-fb7a-4314-85d1-6adfa1bc7927, IP=127.0.0.1/32, Port=0, Proto=Any, Act=Allow
+2025-12-12 12:46:03;INFO;Timed rule expired and removed: FW-7eff650f-fb7a-4314-85d1-6adfa1bc7927
+2025-12-12 12:46:03;INFO;Timed rule expired and removed: FW-88d1b063-42d3-4477-93fa-2bc056841d80
+2025-12-12 13:00:30;PING;PING 192.168.64.5 => DestinationHostUnreachable, time=0ms
+2025-12-12 13:00:34;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:00:35;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:00:35;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:00:35;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:00:41;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:00:42;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:00:42;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:00:42;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:00:43;PING;PING 192.168.64.5 => TimedOut, time=0ms
+2025-12-12 13:01:37;WINFW;Windows Firewall ENABLED
+2025-12-12 13:01:39;APPFW;App firewall ENABLED
+2025-12-12 13:01:44;WINFW;Windows Firewall DISABLED
+2025-12-12 13:01:48;WINFW;Windows Firewall ENABLED
+2025-12-12 13:01:51;APPFW;App firewall ENABLED
+2025-12-12 13:01:51;WINFW;Windows Firewall DISABLED
+2025-12-12 13:01:52;APPFW;App firewall DISABLED
+2025-12-12 13:01:53;WINFW;Windows Firewall ENABLED
+2025-12-12 13:11:04;WINFW;Windows Firewall ENABLED
+2025-12-12 13:11:17;APPFW;App firewall DISABLED
+2025-12-12 13:11:19;WINFW;Windows Firewall DISABLED
+2025-12-12 13:22:59;RULE;ADDED Name=FW-09b389a8-7c4e-4d26-9361-f0c7bb0db560, IP=192.168.64.5, Port=0, Proto=Any, Act=Block
+2025-12-12 13:23:15;APPFW;App firewall ENABLED
+2025-12-12 13:23:16;APPFW;App firewall ENABLED
+2025-12-12 13:23:30;RULE;ADDED Name=FW-e99c64d2-9c58-4909-90bd-8c5d1f8337d4, IP=192.168.64.5, Port=0, Proto=Any, Act=Block
+2025-12-12 13:33:03;INFO;Timed rule expired and removed: FW-09b389a8-7c4e-4d26-9361-f0c7bb0db560
+2025-12-12 13:37:18;INFO;Timed rule expired and removed: FW-e99c64d2-9c58-4909-90bd-8c5d1f8337d4
+2025-12-12 14:25:22;RULE;ADDED Name=FW-93fee13d-632e-417e-a337-a9b8c1482079, IP=192.168.1.1, Port=0, Proto=Any, Act=Block
+2025-12-12 14:25:28;RULE;ADDED Name=FW-abda21e6-1438-4c47-ba1f-59407f238aed, IP=192.168.1.12, Port=0, Proto=Any, Act=Block
+2025-12-12 14:26:55;WINFW;Windows Firewall ENABLED
+2025-12-12 14:26:58;APPFW;App firewall ENABLED
+2025-12-12 14:38:54;INFO;Timed rule expired and removed: FW-93fee13d-632e-417e-a337-a9b8c1482079
+2025-12-12 14:38:54;INFO;Timed rule expired and removed: FW-abda21e6-1438-4c47-ba1f-59407f238aed
+2025-12-24 10:22:26;RULE;ADDED Name=FW-46181acf-3ad6-43d8-8f98-0a0f9da154cc, IP=192.168.5.6, Port=22, Proto=TCP, Act=Block
+2025-12-24 10:43:38;RULE;ADDED Name=FW-0b6c745d-e5b2-47f9-8f56-6304dc0995ce, IP=192.168.5.5, Port=23, Proto=Any, Act=Block
+2025-12-24 10:43:44;RULE;ADDED Name=FW-e26bd161-23c1-4e35-b712-d0d11595a349, IP=192.168.5.5, Port=23, Proto=Any, Act=Block
+2025-12-24 10:44:23;INFO;Timed rule expired and removed: FW-46181acf-3ad6-43d8-8f98-0a0f9da154cc
+2025-12-24 10:45:12;RULE;REMOVED Name=FW-e26bd161-23c1-4e35-b712-d0d11595a349, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-24 10:45:13;RULE;REMOVED Name=FW-0b6c745d-e5b2-47f9-8f56-6304dc0995ce, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-24 10:45:14;RULE;REMOVED Name=FW-a067680c-cf5f-4f29-8568-57ed5adfe69c, IP=192.168.1.69/32, Port=0, Proto=Any, Act=Block
+2025-12-24 10:45:17;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-5799cb53-9c20-4727-8494-edf2cc89ef85, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-24 10:50:30;RULE;ADDED Name=FW-157cee6e-aef5-4428-9ea9-3fde40a348a3, IP=192.168.5.5, Port=23, Proto=Any, Act=Block
+2025-12-24 10:50:55;RULE;REMOVED Name=FW-157cee6e-aef5-4428-9ea9-3fde40a348a3, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-24 10:51:02;RULE;ADDED Name=FW-5e79ab11-3aad-4069-be92-031bc8110da9, IP=192.168.5.5, Port=23, Proto=Any, Act=Block
+2025-12-24 10:51:22;RULE;ADDED Name=FW-39d680d3-4a34-43cf-9141-6fb6d343b866, IP=192.168.5.5, Port=23, Proto=TCP, Act=Block
+2025-12-24 10:52:17;INFO;Timed rule expired and removed: FW-0b6c745d-e5b2-47f9-8f56-6304dc0995ce
+2025-12-24 10:52:17;INFO;Timed rule expired and removed: FW-5e79ab11-3aad-4069-be92-031bc8110da9
+2025-12-24 10:53:12;RULE;REMOVED Name=FW-39d680d3-4a34-43cf-9141-6fb6d343b866, IP=192.168.5.5/32, Port=23, Proto=TCP, Act=Block
+2025-12-24 10:53:17;INFO;Timed rule expired and removed: FW-39d680d3-4a34-43cf-9141-6fb6d343b866
+2025-12-24 10:54:10;RULE;REMOVED Name=FW-BlockAll-5799cb53-9c20-4727-8494-edf2cc89ef85, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-24 10:59:29;RULE;ADDED Name=FW-09c3df52-cdf8-4073-a44d-75e6ce34c808, IP=192.168.55.5, Port=25, Proto=TCP, Act=Block
+2025-12-24 10:59:56;INFO;Timed rule expired and removed: FW-157cee6e-aef5-4428-9ea9-3fde40a348a3
+2025-12-24 11:00:02;RULE;ADDED Name=FW-95bf2554-a746-4a9f-96fb-79f0b87b4b27, IP=192.168.55.5, Port=25, Proto=TCP, Act=Block
+2025-12-24 11:01:41;RULE;ADDED Name=FW-43947ca8-48bf-4edb-91df-eb90f16d9a86, IP=192.168.55.7, Port=25, Proto=TCP, Act=Block
+2025-12-24 11:07:56;INFO;Timed rule expired and removed: FW-09c3df52-cdf8-4073-a44d-75e6ce34c808
+2025-12-29 13:10:47;RULE;REMOVED Name=FW-Web-ff0a8701-30cf-4411-bdb2-b89eb5e44f7b, IP=192.168.5.5/32, Port=23, Proto=TCP, Act=Block
+2025-12-29 13:14:37;INFO;Timed rule expired and removed: FW-95bf2554-a746-4a9f-96fb-79f0b87b4b27
+2025-12-29 13:45:32;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 13:46:25;INFO;[WEB] Windows Firewall ON
+2025-12-29 13:46:28;INFO;[WEB] Windows Firewall OFF
+2025-12-29 13:46:35;INFO;[WEB] My Firewall ON
+2025-12-29 13:47:02;RULE;ADDED Name=FW-109ec96d-ed92-4c5c-a56a-d135cb916ec6, IP=192.168.2.4, Port=23, Proto=TCP, Act=Block
+2025-12-29 13:48:08;RULE;REMOVED Name=FW-109ec96d-ed92-4c5c-a56a-d135cb916ec6, IP=192.168.2.4/32, Port=23, Proto=TCP, Act=Block
+2025-12-29 13:49:19;RULE;ADDED Name=FW-a8afa584-b584-4cb4-bb3c-baa066c1e9c8, IP=192.168.2.4, Port=23, Proto=TCP, Act=Block
+2025-12-29 13:50:51;INFO;[WEB] Windows Firewall ON
+2025-12-29 13:50:53;INFO;[WEB] Windows Firewall OFF
+2025-12-29 13:53:07;INFO;[WEB] Block ALL added: FW-BlockAll-57e4a00e-63a9-4b32-9904-f2c4fe77dfe4
+2025-12-29 13:53:56;RULE;REMOVED Name=FW-BlockAll-57e4a00e-63a9-4b32-9904-f2c4fe77dfe4, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 13:57:31;INFO;Timed rule expired and removed: FW-109ec96d-ed92-4c5c-a56a-d135cb916ec6
+2025-12-29 14:08:13;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 14:09:12;INFO;Timed rule expired and removed: FW-a8afa584-b584-4cb4-bb3c-baa066c1e9c8
+2025-12-29 14:12:47;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 14:22:06;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 14:22:47;INFO;[WEB] Rule added: FW-Web-c335fef7-ba5e-4a3d-91ab-36bb6b602d1e
+2025-12-29 14:23:20;INFO;[WEB] Rule removed: FW-Web-c335fef7-ba5e-4a3d-91ab-36bb6b602d1e
+2025-12-29 14:24:27;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:28;INFO;[WEB] My Firewall OFF
+2025-12-29 14:24:28;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:30;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:31;INFO;[WEB] My Firewall OFF
+2025-12-29 14:24:34;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:34;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:34;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:34;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:35;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:42;WINFW;Windows Firewall ENABLED
+2025-12-29 14:24:43;WINFW;Windows Firewall DISABLED
+2025-12-29 14:24:49;INFO;[WEB] My Firewall ON
+2025-12-29 14:24:49;INFO;[WEB] My Firewall OFF
+2025-12-29 14:24:50;INFO;[WEB] My Firewall ON
+2025-12-29 14:28:09;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-c1d965e8-b44d-436b-8d42-cb187affad6d, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 14:28:20;INFO;[WEB] Rule removed: FW-BlockAll-c1d965e8-b44d-436b-8d42-cb187affad6d
+2025-12-29 14:28:27;INFO;[WEB] My Firewall ON
+2025-12-29 14:38:20;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 14:38:45;INFO;[WEB] Block ALL added: FW-BlockAll-fd9fd203-e09a-4f22-a445-3f7897496291
+2025-12-29 14:39:46;INFO;[WEB] Rule added: FW-Web-5fa2558d-5d98-4549-855a-65f3e63f7997
+2025-12-29 14:39:49;INFO;[WEB] Rule added: FW-Web-20937df2-e51b-4058-ad69-e4e89e3f46f5
+2025-12-29 14:39:51;INFO;[WEB] Rule added: FW-Web-5456ca1c-6d39-41b4-8967-b46fb49a1185
+2025-12-29 14:40:29;INFO;[WEB] Block ALL added: FW-BlockAll-55d0896a-6f21-478d-8eb2-c0fbe8749542
+2025-12-29 14:40:30;INFO;[WEB] Block ALL added: FW-BlockAll-a8108dab-7b00-49cc-97a4-79596ae54d46
+2025-12-29 14:40:41;INFO;[WEB] Rule added: FW-Web-5049ba2d-2a31-455d-8203-41a28757d563
+2025-12-29 14:40:42;INFO;[WEB] Rule added: FW-Web-5e276f90-a14e-466d-92a8-5ce9dab58337
+2025-12-29 14:40:42;INFO;[WEB] Rule added: FW-Web-90d13a6b-f955-4b03-ad20-3174ef1a0ad8
+2025-12-29 14:40:42;INFO;[WEB] Rule added: FW-Web-b24d1e2d-8fd8-4d47-8302-17aa04676651
+2025-12-29 14:40:42;INFO;[WEB] Rule added: FW-Web-aa7425ad-77e3-41e7-b3b8-09c33743ccd1
+2025-12-29 14:40:43;INFO;[WEB] Rule added: FW-Web-12d1fe48-2ee7-4b37-9018-e4c464a8f9c7
+2025-12-29 14:43:18;RULE;REMOVED Name=FW-Web-12d1fe48-2ee7-4b37-9018-e4c464a8f9c7, IP=129.12.12.13/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:19;RULE;REMOVED Name=FW-Web-aa7425ad-77e3-41e7-b3b8-09c33743ccd1, IP=129.12.12.13/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:19;RULE;REMOVED Name=FW-Web-b24d1e2d-8fd8-4d47-8302-17aa04676651, IP=129.12.12.13/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:20;RULE;REMOVED Name=FW-Web-90d13a6b-f955-4b03-ad20-3174ef1a0ad8, IP=129.12.12.13/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:21;RULE;REMOVED Name=FW-Web-5e276f90-a14e-466d-92a8-5ce9dab58337, IP=129.12.12.13/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:22;RULE;REMOVED Name=FW-Web-5049ba2d-2a31-455d-8203-41a28757d563, IP=129.12.12.13/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:23;RULE;REMOVED Name=FW-BlockAll-a8108dab-7b00-49cc-97a4-79596ae54d46, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:23;RULE;REMOVED Name=FW-BlockAll-55d0896a-6f21-478d-8eb2-c0fbe8749542, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:24;RULE;REMOVED Name=FW-Web-5456ca1c-6d39-41b4-8967-b46fb49a1185, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:25;RULE;REMOVED Name=FW-Web-20937df2-e51b-4058-ad69-e4e89e3f46f5, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:25;RULE;REMOVED Name=FW-Web-5fa2558d-5d98-4549-855a-65f3e63f7997, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:26;RULE;REMOVED Name=FW-BlockAll-fd9fd203-e09a-4f22-a445-3f7897496291, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 14:43:59;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 14:44:12;INFO;[WEB] Block ALL added: FW-BlockAll-9b7194ca-dcaf-4ffb-aa6c-91b66a6db47a
+2025-12-29 14:44:23;INFO;[WEB] Rule added: FW-Web-8e2031cf-76a5-4f41-852e-3edf29850625
+2025-12-29 14:44:31;INFO;[WEB] Rule added: FW-Web-1f71dc96-3af3-4c17-a269-9b75ff820108
+2025-12-29 14:44:50;RULE;REMOVED Name=FW-Web-1f71dc96-3af3-4c17-a269-9b75ff820108, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:44:51;RULE;REMOVED Name=FW-Web-8e2031cf-76a5-4f41-852e-3edf29850625, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-29 14:44:52;RULE;REMOVED Name=FW-BlockAll-9b7194ca-dcaf-4ffb-aa6c-91b66a6db47a, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 14:45:01;INFO;[WEB] Rule added: FW-Web-6f7619a7-f3b9-43b0-99f1-c1301214353d
+2025-12-29 14:45:17;INFO;[WEB] Block ALL added: FW-BlockAll-30a00e40-03ad-4a33-91e8-bd848819ebfa
+2025-12-29 14:48:58;INFO;Timed rule expired and removed: FW-Web-6f7619a7-f3b9-43b0-99f1-c1301214353d
+2025-12-29 15:20:36;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 15:20:59;INFO;[WEB] Block ALL added: FW-BlockAll-e0eeb736-59ec-42b3-924a-6f1710ea2005
+2025-12-29 15:21:35;INFO;Timed rule expired and removed: FW-Web-1f71dc96-3af3-4c17-a269-9b75ff820108
+2025-12-29 15:27:07;INFO;[WEB] Block ALL added: FW-BlockAll-5ceedb55-eca7-44e3-86c6-877972772314
+2025-12-29 15:27:18;INFO;[WEB] Block ALL added: FW-BlockAll-7fbd48c8-5e37-4c2b-b8f2-28c40209567b
+2025-12-29 15:30:05;RULE;REMOVED Name=FW-BlockAll-7fbd48c8-5e37-4c2b-b8f2-28c40209567b, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 15:30:06;RULE;REMOVED Name=FW-BlockAll-5ceedb55-eca7-44e3-86c6-877972772314, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 15:30:06;RULE;REMOVED Name=FW-BlockAll-e0eeb736-59ec-42b3-924a-6f1710ea2005, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 15:30:07;RULE;REMOVED Name=FW-BlockAll-30a00e40-03ad-4a33-91e8-bd848819ebfa, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 15:37:46;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 15:37:54;INFO;[WEB] Block ALL added: FW-BlockAll-aa7a4e9c-a456-42de-98a5-afb69c8d236d
+2025-12-29 15:38:11;INFO;[WEB] Windows Firewall ON
+2025-12-29 15:38:13;INFO;[WEB] Windows Firewall OFF
+2025-12-29 15:38:16;INFO;[WEB] My Firewall ON
+2025-12-29 15:38:24;APPFW;App firewall ENABLED
+2025-12-29 15:38:25;WINFW;Windows Firewall ENABLED
+2025-12-29 15:38:26;INFO;[WEB] Windows Firewall OFF
+2025-12-29 15:39:31;INFO;[WEB] Rule added: FW-Web-4bbe7f3e-0dc0-4c29-946b-9c5bf492ac24
+2025-12-29 15:44:20;INFO;[WEB] Windows Firewall ON
+2025-12-29 15:44:21;INFO;[WEB] Windows Firewall OFF
+2025-12-29 15:44:27;INFO;[WEB] Windows Firewall ON
+2025-12-29 15:44:32;INFO;[WEB] Windows Firewall OFF
+2025-12-29 15:57:40;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 15:57:42;RULE;REMOVED Name=FW-Web-4bbe7f3e-0dc0-4c29-946b-9c5bf492ac24, IP=192.123.23.23/32, Port=0, Proto=Any, Act=Block
+2025-12-29 15:57:43;RULE;REMOVED Name=FW-BlockAll-aa7a4e9c-a456-42de-98a5-afb69c8d236d, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 15:58:06;INFO;[WEB] Rule added: FW-Web-48ba23e4-898e-4dd9-b7ed-d9be44618035
+2025-12-29 15:58:55;INFO;[WEB] Block ALL added: FW-BlockAll-32bf058e-fc25-4feb-a13c-220ee3980beb
+2025-12-29 16:02:39;INFO;Timed rule expired and removed: FW-Web-4bbe7f3e-0dc0-4c29-946b-9c5bf492ac24
+2025-12-29 16:13:43;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 16:13:57;INFO;[WEB] Windows Firewall ON
+2025-12-29 16:13:59;INFO;[WEB] Windows Firewall OFF
+2025-12-29 16:14:15;INFO;[WEB] Rule added: FW-Web-a4c71d96-a471-4094-939e-dca07f653bcc
+2025-12-29 16:14:30;INFO;[WEB] Block ALL added: FW-BlockAll-a328f067-ef55-4687-97d2-23e8e47e1e5e
+2025-12-29 16:16:53;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 16:21:53;INFO;Timed rule expired and removed: FW-Web-48ba23e4-898e-4dd9-b7ed-d9be44618035
+2025-12-29 16:24:37;RULE;REMOVED Name=FW-BlockAll-a328f067-ef55-4687-97d2-23e8e47e1e5e, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 16:24:39;RULE;REMOVED Name=FW-Web-a4c71d96-a471-4094-939e-dca07f653bcc, IP=23.23.23.23/32, Port=0, Proto=Any, Act=Block
+2025-12-29 16:24:41;RULE;REMOVED Name=FW-BlockAll-32bf058e-fc25-4feb-a13c-220ee3980beb, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-29 16:24:55;INFO;[WEB] Rule added: FW-Web-c28cf445-cdfe-4370-b962-13c584fdb0fc
+2025-12-29 16:26:53;INFO;Timed rule expired and removed: FW-Web-c28cf445-cdfe-4370-b962-13c584fdb0fc
+2025-12-29 16:28:29;INFO;[WEB] Windows Firewall ON
+2025-12-29 16:28:30;INFO;[WEB] Windows Firewall OFF
+2025-12-29 16:35:38;INFO;[WEB] started: http://localhost:5055/
+2025-12-29 16:36:00;INFO;[WEB] Rule added: FW-Web-d5882e74-aa3c-41a1-8084-45217fb38e54
+2025-12-29 16:36:27;INFO;[WEB] Rule added: FW-Web-c1f5bd83-a867-4de5-92bd-87d548df9a02
+2025-12-29 16:36:28;INFO;[WEB] Rule added: FW-Web-6d551815-9414-432c-b563-3deaee567d4e
+2025-12-29 16:36:29;INFO;[WEB] Rule added: FW-Web-b1b74088-0180-44ff-bac9-df3ed3ad0b11
+2025-12-29 16:36:44;INFO;[WEB] Rule added: FW-Web-14bd3f3d-9726-4ea2-b020-ffae61a15bd5
+2025-12-29 16:36:45;INFO;[WEB] Rule added: FW-Web-ca69b88d-f225-4b22-b648-7f55f64d31cc
+2025-12-29 16:36:46;INFO;[WEB] Rule added: FW-Web-e08116e9-92c3-4034-8c99-f36879cbe5fe
+2025-12-29 16:37:37;INFO;Timed rule expired and removed: FW-Web-a4c71d96-a471-4094-939e-dca07f653bcc
+2025-12-30 14:44:13;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 14:44:45;RULE;ADDED Name=FW-411e8433-354c-4c53-a753-2fa7d1c484b2, IP=192.168.1.14, Port=23, Proto=Any, Act=Block
+2025-12-30 14:45:35;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 14:46:35;INFO;Timed rule expired and removed: FW-Web-d5882e74-aa3c-41a1-8084-45217fb38e54
+2025-12-30 14:46:35;INFO;Timed rule expired and removed: FW-Web-c1f5bd83-a867-4de5-92bd-87d548df9a02
+2025-12-30 14:46:35;INFO;Timed rule expired and removed: FW-Web-6d551815-9414-432c-b563-3deaee567d4e
+2025-12-30 14:46:35;INFO;Timed rule expired and removed: FW-Web-b1b74088-0180-44ff-bac9-df3ed3ad0b11
+2025-12-30 14:46:35;INFO;Timed rule expired and removed: FW-Web-14bd3f3d-9726-4ea2-b020-ffae61a15bd5
+2025-12-30 14:46:35;INFO;Timed rule expired and removed: FW-Web-ca69b88d-f225-4b22-b648-7f55f64d31cc
+2025-12-30 14:46:35;INFO;Timed rule expired and removed: FW-Web-e08116e9-92c3-4034-8c99-f36879cbe5fe
+2025-12-30 14:49:01;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 14:49:32;INFO;[WEB] Rule removed: FW-411e8433-354c-4c53-a753-2fa7d1c484b2 by tunar(Admin)
+2025-12-30 14:49:35;INFO;[WEB] Block ALL added: FW-BlockAll-83b121b5-dc51-4f52-8714-384f49da482a by tunar(Admin)
+2025-12-30 14:49:37;INFO;[WEB] Rule removed: FW-BlockAll-83b121b5-dc51-4f52-8714-384f49da482a by tunar(Admin)
+2025-12-30 14:54:14;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 14:54:32;INFO;[WEB] Block ALL added: FW-BlockAll-faef2054-076b-4f76-8b14-bd395ee05c0a by tunar(Admin)
+2025-12-30 14:54:35;INFO;[WEB] Rule removed: FW-BlockAll-faef2054-076b-4f76-8b14-bd395ee05c0a by tunar(Admin)
+2025-12-30 14:55:13;INFO;Timed rule expired and removed: FW-411e8433-354c-4c53-a753-2fa7d1c484b2
+2025-12-30 15:03:50;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 15:04:01;RULE;ADDED Name=FW-09951bbf-b3f9-4f2f-9649-b5c7dc776280, IP=23.23.23.23, Port=23, Proto=Any, Act=Block
+2025-12-30 15:04:18;INFO;[WEB] Block ALL added: FW-BlockAll-d8806a83-4644-4af5-8669-40d7969e0ee0 by tunar(Admin)
+2025-12-30 15:04:19;INFO;[WEB] Rule removed: FW-BlockAll-d8806a83-4644-4af5-8669-40d7969e0ee0 by tunar(Admin)
+2025-12-30 15:04:21;INFO;[WEB] Rule removed: FW-09951bbf-b3f9-4f2f-9649-b5c7dc776280 by tunar(Admin)
+2025-12-30 15:04:32;WINFW;Windows Firewall ENABLED
+2025-12-30 15:04:33;WINFW;Windows Firewall DISABLED
+2025-12-30 15:04:36;WINFW;Windows Firewall ENABLED
+2025-12-30 15:07:42;INFO;[WEB] Rule added: FW-Web-8efdcccd-129e-42c6-b373-ea45e789d388 by tunar(Admin)
+2025-12-30 15:07:47;INFO;[WEB] Rule removed: FW-Web-8efdcccd-129e-42c6-b373-ea45e789d388 by tunar(Admin)
+2025-12-30 15:13:30;WINFW;Windows Firewall ENABLED
+2025-12-30 15:13:31;WINFW;Windows Firewall DISABLED
+2025-12-30 15:13:40;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-6348948c-2ea7-4e7e-96b9-841aad609cfb, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-30 15:13:45;INFO;[WEB] Rule removed: FW-BlockAll-6348948c-2ea7-4e7e-96b9-841aad609cfb by tunar(Admin)
+2025-12-30 15:19:18;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 15:19:26;INFO;[WEB] Windows Firewall OFF
+2025-12-30 15:19:28;INFO;[WEB] Windows Firewall ON
+2025-12-30 15:19:31;INFO;[WEB] Windows Firewall OFF
+2025-12-30 15:19:46;INFO;[WEB] Windows Firewall ON
+2025-12-30 15:19:51;INFO;[WEB] Windows Firewall OFF
+2025-12-30 15:19:59;INFO;[WEB] Windows Firewall ON
+2025-12-30 15:20:36;INFO;[WEB] Rule added: FW-Web-bd0068e3-a23b-4fc6-98fb-3407c6114e36 by tunar(Admin)
+2025-12-30 15:20:47;INFO;[WEB] Rule removed: FW-Web-bd0068e3-a23b-4fc6-98fb-3407c6114e36 by tunar(Admin)
+2025-12-30 15:21:25;RULE;ADDED_BLOCK_ALL Name=FW-BlockAll-c4a6aba4-2892-441f-a1d8-e484b0c9e76b, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-30 15:21:30;INFO;[WEB] Rule removed: FW-BlockAll-c4a6aba4-2892-441f-a1d8-e484b0c9e76b by tunar(Admin)
+2025-12-30 15:22:15;INFO;[WEB] Windows Firewall ON
+2025-12-30 15:22:17;INFO;[WEB] Windows Firewall OFF
+2025-12-30 15:22:35;INFO;[WEB] Windows Firewall OFF
+2025-12-30 15:22:37;INFO;[WEB] Windows Firewall ON
+2025-12-30 15:22:38;INFO;[WEB] Windows Firewall OFF
+2025-12-30 15:23:13;INFO;[WEB] Block ALL added: FW-BlockAll-b3946e8a-b977-432d-b5b0-5589fe5fc026 by tunar(Admin)
+2025-12-30 15:27:17;INFO;Timed rule expired and removed: FW-09951bbf-b3f9-4f2f-9649-b5c7dc776280
+2025-12-30 15:29:29;INFO;[WEB] Windows Firewall OFF
+2025-12-30 15:29:30;INFO;[WEB] Windows Firewall ON
+2025-12-30 15:29:31;INFO;[WEB] Windows Firewall OFF
+2025-12-30 15:29:32;INFO;[WEB] Block ALL added: FW-BlockAll-014692ff-e500-4b66-b440-51444b001798 by tunar(Admin)
+2025-12-30 15:29:34;INFO;[WEB] Rule removed: FW-BlockAll-014692ff-e500-4b66-b440-51444b001798 by tunar(Admin)
+2025-12-30 15:29:35;INFO;[WEB] Rule removed: FW-BlockAll-b3946e8a-b977-432d-b5b0-5589fe5fc026 by tunar(Admin)
+2025-12-30 15:29:37;INFO;[WEB] Block ALL added: FW-BlockAll-6f8b4590-4cd5-4334-bdf1-4049267f8354 by tunar(Admin)
+2025-12-30 15:29:52;INFO;[WEB] Rule added: FW-Web-5ab2c1f8-6459-4d5c-8232-95a671c1a69c by tunar(Admin)
+2025-12-30 15:29:58;INFO;[WEB] Rule removed: FW-BlockAll-6f8b4590-4cd5-4334-bdf1-4049267f8354 by tunar(Admin)
+2025-12-30 15:30:04;RULE;REMOVED Name=FW-Web-5ab2c1f8-6459-4d5c-8232-95a671c1a69c, IP=23.23.23.23/32, Port=23, Proto=UDP, Act=Block
+2025-12-30 15:30:56;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 16:11:40;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 16:11:44;INFO;[WEB] Windows Firewall ON
+2025-12-30 16:11:45;INFO;[WEB] Windows Firewall OFF
+2025-12-30 16:11:47;INFO;[WEB] Windows Firewall ON
+2025-12-30 16:11:48;INFO;[WEB] Windows Firewall OFF
+2025-12-30 16:51:20;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 16:51:26;INFO;[WEB] Windows Firewall ON
+2025-12-30 16:51:27;INFO;[WEB] Windows Firewall OFF
+2025-12-30 16:51:59;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 16:52:03;INFO;[WEB] Windows Firewall OFF
+2025-12-30 16:52:04;INFO;[WEB] Windows Firewall ON
+2025-12-30 16:52:05;INFO;[WEB] Windows Firewall OFF
+2025-12-30 16:59:47;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 16:59:53;INFO;[WEB] Windows Firewall ON
+2025-12-30 16:59:55;INFO;[WEB] Windows Firewall OFF
+2025-12-30 17:00:42;INFO;[WEB] Block ALL added: FW-BlockAll-4c444e24-25a7-4994-a581-b7e419c1bed5 by tunar(Admin)
+2025-12-30 17:00:43;INFO;[WEB] Rule removed: FW-BlockAll-4c444e24-25a7-4994-a581-b7e419c1bed5 by tunar(Admin)
+2025-12-30 17:00:46;INFO;Timed rule expired and removed: FW-Web-bd0068e3-a23b-4fc6-98fb-3407c6114e36
+2025-12-30 17:00:46;INFO;Timed rule expired and removed: FW-Web-5ab2c1f8-6459-4d5c-8232-95a671c1a69c
+2025-12-30 17:00:57;INFO;[WEB] Rule added: FW-Web-24535442-9433-45ab-9a16-0e89c34e7c71 by tunar(Admin)
+2025-12-30 17:01:05;INFO;[WEB] Rule removed: FW-Web-24535442-9433-45ab-9a16-0e89c34e7c71 by tunar(Admin)
+2025-12-30 18:11:50;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 18:14:42;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 18:15:39;INFO;[WEB] Rule added: FW-Web-1be71a57-b80c-4b09-afd7-c404edcdfb56 by tunar(Admin)
+2025-12-30 18:15:42;INFO;Timed rule expired and removed: FW-Web-24535442-9433-45ab-9a16-0e89c34e7c71
+2025-12-30 18:22:54;INFO;[WEB] Block ALL added: FW-BlockAll-fd1d292f-3d05-405d-8eb8-c6f02ce78ce3 by tunar(Admin)
+2025-12-30 18:35:42;INFO;[WEB] Windows Firewall OFF
+2025-12-30 19:23:31;INFO;[WEB] Rule removed: FW-BlockAll-fd1d292f-3d05-405d-8eb8-c6f02ce78ce3 by tunar(Admin)
+2025-12-30 19:23:34;INFO;[WEB] Rule removed: FW-Web-1be71a57-b80c-4b09-afd7-c404edcdfb56 by tunar(Admin)
+2025-12-30 19:24:05;INFO;[WEB] Rule added: FW-Web-3e5e4be6-8a38-4bbe-8b49-be7c7e5b8d37 by tunar(Admin)
+2025-12-30 19:24:17;INFO;[WEB] Rule added: FW-Web-7eb92780-f9bd-42fa-8960-947fe79bd06b by tunar(Admin)
+2025-12-30 19:24:35;INFO;[WEB] Windows Firewall ON
+2025-12-30 19:24:37;INFO;[WEB] Windows Firewall OFF
+2025-12-30 19:25:00;INFO;[WEB] Windows Firewall ON
+2025-12-30 19:25:02;INFO;[WEB] Windows Firewall ON
+2025-12-30 19:25:07;INFO;[WEB] Windows Firewall OFF
+2025-12-30 19:25:12;INFO;[WEB] Windows Firewall ON
+2025-12-30 19:25:17;INFO;[WEB] Windows Firewall OFF
+2025-12-30 19:26:54;INFO;[WEB] Windows Firewall ON
+2025-12-30 19:28:17;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 19:28:34;INFO;[WEB] Rule added: FW-Web-73f50112-1d65-4b05-8c8f-ba919aad8145 by tunar(Admin)
+2025-12-30 20:52:21;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 20:53:33;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 21:10:13;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 21:10:45;INFO;[WEB] Rule added: FW-Web-5ce185e6-647f-4721-a309-d37ee4e9e570 by tunar(Admin)
+2025-12-30 21:10:49;INFO;[WEB] Windows Firewall ON
+2025-12-30 21:10:51;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:10:59;INFO;[WEB] Block ALL added: FW-BlockAll-e29445c1-42ba-4bb4-a04c-0cec5c4d3fb1 by tunar(Admin)
+2025-12-30 21:11:06;INFO;[WEB] Rule removed: FW-Web-5ce185e6-647f-4721-a309-d37ee4e9e570 by tunar(Admin)
+2025-12-30 21:11:07;INFO;[WEB] Rule removed: FW-BlockAll-e29445c1-42ba-4bb4-a04c-0cec5c4d3fb1 by tunar(Admin)
+2025-12-30 21:12:35;RULE;ADDED Name=FW-89922a0c-5270-44b3-bed5-ad257bebdd5d, IP=23.23.23.23, Port=23, Proto=Any, Act=Block
+2025-12-30 21:15:18;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 21:15:58;INFO;[WEB] Windows Firewall ON
+2025-12-30 21:16:02;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:16:04;INFO;[WEB] Windows Firewall ON
+2025-12-30 21:16:11;INFO;[WEB] Rule removed: FW-89922a0c-5270-44b3-bed5-ad257bebdd5d by tunar(Admin)

@@ -1,0 +1,586 @@
+Timestamp;Type;Details
+2026-04-06 20:33:40;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-04-06 20:27:24;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-04-06 20:26:37;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-04-06 19:42:24;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-04-06 19:25:23;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 19:23:49;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 19:20:54;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 19:19:21;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 19:16:21;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 19:14:26;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://169.254.232.116:2309/
+2026-04-06 19:11:03;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 19:09:19;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 19:06:25;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:47:33;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:46:56;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:46:15;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:45:28;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:45:01;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:43:56;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:42:26;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:41:51;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:39:55;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:39:09;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:38:02;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:36:34;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:26:13;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:22:17;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 18:16:04;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-06 17:46:51;INFO;Timed rule expired and removed: FW-930c8963-de26-476d-b4e2-1769f820e197
+2026-04-06 17:46:51;INFO;[FW WARN] RemoveRule 'FW-930c8963-de26-476d-b4e2-1769f820e197': netsh failed (exit 1): No rules match the specified criteria.
+2026-04-06 17:46:51;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall delete rule name="FW-930c8963-de26-476d-b4e2-1769f820e197"]
+2026-04-06 17:46:51;INFO;Timed rule expired and removed: FW-ad81f4d4-ade4-496b-99e3-ca21b3449e8a
+2026-04-06 17:46:51;INFO;[FW WARN] RemoveRule 'FW-ad81f4d4-ade4-496b-99e3-ca21b3449e8a': netsh failed (exit 1): No rules match the specified criteria.
+2026-04-06 17:46:51;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall delete rule name="FW-ad81f4d4-ade4-496b-99e3-ca21b3449e8a"]
+2026-04-06 17:45:52;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.88.1:2309/
+2026-04-04 20:03:07;RULE;ADDED Name=Any_192.168.5.6_23_Block, IP=192.168.5.6, Port=23, Proto=Any, Act=Block
+2026-04-04 20:03:07;INFO;[FW] Rule added: name=FW-930c8963-de26-476d-b4e2-1769f820e197 ip=192.168.5.6 port=23 proto=Any action=block
+2026-04-04 20:03:02;RULE;ADDED Name=Any_192.168.5.4_23_Block, IP=192.168.5.4, Port=23, Proto=Any, Act=Block
+2026-04-04 20:03:02;INFO;[FW] Rule added: name=FW-ad81f4d4-ade4-496b-99e3-ca21b3449e8a ip=192.168.5.4 port=23 proto=Any action=block
+2026-04-04 20:02:48;RULE;REMOVED Name=Any_192.168.1.2_32_0_Block, IP=192.168.1.2/32, Port=0, Proto=Any, Act=Block
+2026-04-04 20:02:48;INFO;[FW] Rule removed: FW-898b6de0-8032-4afc-a28d-588a3da09fdd
+2026-04-04 20:02:37;INFO;[WEB] Login: ayan (Viewer)
+2026-04-04 20:02:24;INFO;[WEB] Failed login attempt for ''
+2026-04-04 20:02:00;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-16 16:22:49;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://169.254.104.108:2309/
+2026-03-10 14:33:40;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-05 00:07:05;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-05 00:05:33;INFO;[WEB] Login: tunar (Admin)
+2026-03-05 00:05:27;INFO;[WEB] Failed login attempt for ''
+2026-03-05 00:05:23;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-05 00:02:46;INFO;[WEB] Login: ayan (Viewer)
+2026-03-04 23:59:56;INFO;[WEB] Login: tunar (Admin)
+2026-03-04 23:59:23;INFO;[WEB] Failed login attempt for ''
+2026-03-04 23:59:20;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 23:34:32;INFO;[WEB] Login: tunar (Admin)
+2026-03-04 23:34:08;INFO;[WEB] Failed login attempt for ''
+2026-03-04 23:33:25;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 23:11:40;RULE;REMOVED Name=Any_4.4.4.4_32_0_Block, IP=4.4.4.4/32, Port=0, Proto=Any, Act=Block
+2026-03-04 23:11:40;INFO;[FW] Rule removed: FW-edd6f212-7e6f-4a99-975a-eb2843422a15
+2026-03-04 23:11:39;RULE;REMOVED Name=Any_2.2.2.2_32_0_Block, IP=2.2.2.2/32, Port=0, Proto=Any, Act=Block
+2026-03-04 23:11:39;INFO;[FW] Rule removed: FW-400f71f1-e05b-4a11-b02c-41dbf4b5290c
+2026-03-04 23:11:00;RULE;REMOVED Name=Any_Any_0_Block, IP=Any, Port=0, Proto=Any, Act=Block
+2026-03-04 23:11:00;INFO;[FW] Rule removed: FW-BlockAll-6970cac3-8f91-4793-8605-0459d6f2b3d6
+2026-03-04 23:10:49;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 23:08:36;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 23:02:17;RULE;ADDED Name=Any_2.2.2.2_0_Block, IP=2.2.2.2, Port=0, Proto=Any, Act=Block
+2026-03-04 23:02:17;INFO;[FW] Rule added: name=FW-400f71f1-e05b-4a11-b02c-41dbf4b5290c ip=2.2.2.2 port=0 proto=Any action=block
+2026-03-04 23:02:10;RULE;ADDED Name=Any_4.4.4.4_0_Block, IP=4.4.4.4, Port=0, Proto=Any, Act=Block
+2026-03-04 23:02:10;INFO;[FW] Rule added: name=FW-edd6f212-7e6f-4a99-975a-eb2843422a15 ip=4.4.4.4 port=0 proto=Any action=block
+2026-03-04 23:01:38;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 23:00:43;INFO;[WEB] Block ALL added: FW-BlockAll-6970cac3-8f91-4793-8605-0459d6f2b3d6 by tunar (Admin)
+2026-03-04 23:00:43;INFO;[FW] Block-All rule added: FW-BlockAll-6970cac3-8f91-4793-8605-0459d6f2b3d6
+2026-03-04 23:00:34;INFO;[WEB] Rule removed: FW-Web-39c47e52-efb5-4281-aca2-e5d68f15c137 by tunar (Admin)
+2026-03-04 23:00:34;INFO;[FW] Rule removed: FW-Web-39c47e52-efb5-4281-aca2-e5d68f15c137
+2026-03-04 22:59:33;INFO;[WEB] Login: tunar (Admin)
+2026-03-04 22:59:28;INFO;[WEB] Failed login attempt for ''
+2026-03-04 22:59:20;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 22:51:26;INFO;[WEB] Rule added: FW-Web-39c47e52-efb5-4281-aca2-e5d68f15c137 by tunar (Admin)
+2026-03-04 22:51:26;INFO;[FW] Rule added: name=FW-Web-39c47e52-efb5-4281-aca2-e5d68f15c137 ip=192.168.1.65 port=0 proto=Any action=allow
+2026-03-04 22:49:49;INFO;[WEB] App Rules ON by tunar
+2026-03-04 22:49:49;INFO;[FW] App rules set enable=yes: 0 ok, 0 failed
+2026-03-04 22:49:47;INFO;[WEB] Windows Firewall ON by tunar
+2026-03-04 22:49:47;INFO;[FW] Firewall logging enabled (dropped + allowed)
+2026-03-04 22:49:47;INFO;[FW] Windows Firewall set to ON
+2026-03-04 22:49:26;INFO;[WEB] Rule removed: FW-98d3205c-8b03-4b7a-ade8-70788ffd0473 by tunar (Admin)
+2026-03-04 22:49:26;INFO;[FW] Rule removed: FW-98d3205c-8b03-4b7a-ade8-70788ffd0473
+2026-03-04 22:49:16;INFO;[WEB] Login: tunar (Admin)
+2026-03-04 22:49:09;INFO;[WEB] Failed login attempt for ''
+2026-03-04 22:46:02;RULE;ADDED Name=Any_192.168.1.65_0_Allow, IP=192.168.1.65, Port=0, Proto=Any, Act=Allow
+2026-03-04 22:46:02;INFO;[FW] Rule added: name=FW-98d3205c-8b03-4b7a-ade8-70788ffd0473 ip=192.168.1.65 port=0 proto=Any action=allow
+2026-03-04 22:45:55;RULE;REMOVED Name=Any_0.0.0.0_32_0_Allow, IP=0.0.0.0/32, Port=0, Proto=Any, Act=Allow
+2026-03-04 22:45:55;INFO;[FW] Rule removed: FW-d43745b8-9966-4048-b780-39a33f84bd49
+2026-03-04 22:45:36;RULE;ADDED Name=Any_0.0.0.0_0_Allow, IP=0.0.0.0, Port=0, Proto=Any, Act=Allow
+2026-03-04 22:45:36;INFO;[FW] Rule added: name=FW-d43745b8-9966-4048-b780-39a33f84bd49 ip=0.0.0.0 port=0 proto=Any action=allow
+2026-03-04 22:45:01;PING;PING 192.168.1.243 => TimedOut, time=0ms
+2026-03-04 22:44:58;PING;PING 192.168.1.243 => TimedOut, time=0ms
+2026-03-04 22:44:51;PING;PING 192.168.1.66 => Success, time=783ms
+2026-03-04 22:44:48;PING;PING 192.168.1.66 => Success, time=433ms
+2026-03-04 22:44:44;PING;PING 192.168.1.65 => Success, time=0ms
+2026-03-04 22:44:43;PING;PING 192.168.1.65 => Success, time=0ms
+2026-03-04 22:44:42;PING;PING 192.168.1.65 => Success, time=1ms
+2026-03-04 22:44:40;PING;PING 192.168.1.65 => Success, time=0ms
+2026-03-04 22:43:36;RULE;REMOVED Name=Any_192.168.1.65_32_0_Allow, IP=192.168.1.65/32, Port=0, Proto=Any, Act=Allow
+2026-03-04 22:43:36;INFO;[FW] Rule removed: FW-196123df-6473-4489-b60e-1919bb396510
+2026-03-04 22:43:11;RULE;ADDED Name=Any_192.168.1.65_0_Allow, IP=192.168.1.65, Port=0, Proto=Any, Act=Allow
+2026-03-04 22:43:11;INFO;[FW] Rule added: name=FW-196123df-6473-4489-b60e-1919bb396510 ip=192.168.1.65 port=0 proto=Any action=allow
+2026-03-04 22:41:21;APPFW;App firewall ENABLED
+2026-03-04 22:41:21;INFO;[FW] App rules set enable=yes: 0 ok, 0 failed
+2026-03-04 22:41:20;WINFW;Windows Firewall ENABLED
+2026-03-04 22:41:20;INFO;[FW] Firewall logging enabled (dropped + allowed)
+2026-03-04 22:41:19;INFO;[FW] Windows Firewall set to ON
+2026-03-04 22:41:06;INFO;[FW] DisableBuiltinRules done: 391 disabled, 254 skipped, 71 failed
+2026-03-04 22:40:53;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.AccountsControl_10.0.26100.1_neutral__cw5n1h2txyewy?ms-resource://Microsoft.AccountsControl/Resources/DisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:53;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.AccountsControl_10.0.26100.1_neutral__cw5n1h2txyewy?ms-resource://Microsoft.AccountsControl/Resources/DisplayName}" new enable=no]
+2026-03-04 22:40:53;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Win32WebViewHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Windows.Win32WebViewHost/resources/DisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:53;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Win32WebViewHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Windows.Win32WebViewHost/resources/DisplayName}" new enable=no]
+2026-03-04 22:40:52;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Win32WebViewHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Windows.Win32WebViewHost/resources/DisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:52;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Win32WebViewHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Windows.Win32WebViewHost/resources/DisplayName}" new enable=no]
+2026-03-04 22:40:52;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.Apprep.ChxApp_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.Apprep.ChxApp/resources/DisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:52;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.Apprep.ChxApp_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.Apprep.ChxApp/resources/DisplayName}" new enable=no]
+2026-03-04 22:40:52;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.CloudExperienceHost/resources/appDescription}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:52;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.CloudExperienceHost/resources/appDescription}" new enable=no]
+2026-03-04 22:40:52;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.CloudExperienceHost/resources/appDescription}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:52;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.CloudExperienceHost/resources/appDescription}" new enable=no]
+2026-03-04 22:40:52;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.ContentDeliveryManager_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.ContentDeliveryManager/resources/AppDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:52;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.ContentDeliveryManager_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.ContentDeliveryManager/resources/AppDisplayName}" new enable=no]
+2026-03-04 22:40:52;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.ParentalControls_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.ParentalControls/resources/DisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:52;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.ParentalControls_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.ParentalControls/resources/DisplayName}" new enable=no]
+2026-03-04 22:40:52;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.PeopleExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.PeopleExperienceHost/resources/PkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:52;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.PeopleExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.PeopleExperienceHost/resources/PkgDisplayName}" new enable=no]
+2026-03-04 22:40:52;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.PrintQueueActionCenter_1.0.2.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.PrintQueueActionCenter/Resources/AppxManifest_DisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:52;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.PrintQueueActionCenter_1.0.2.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.PrintQueueActionCenter/Resources/AppxManifest_DisplayName}" new enable=no]
+2026-03-04 22:40:51;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.SecureAssessmentBrowser_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.SecureAssessmentBrowser/Resources/PackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:51;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.SecureAssessmentBrowser_10.0.26100.1_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.SecureAssessmentBrowser/Resources/PackageDisplayName}" new enable=no]
+2026-03-04 22:40:51;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.XboxGameCallableUI_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.XboxGameCallableUI/resources/PkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:51;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.XboxGameCallableUI_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.XboxGameCallableUI/resources/PkgDisplayName}" new enable=no]
+2026-03-04 22:40:50;INFO;[FW WARN] DisableBuiltin could not disable '@{Windows.PrintDialog_6.2.3.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Windows.PrintDialog/Resources/DisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:50;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Windows.PrintDialog_6.2.3.0_neutral_neutral_cw5n1h2txyewy?ms-resource://Windows.PrintDialog/Resources/DisplayName}" new enable=no]
+2026-03-04 22:40:50;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.NarratorQuickStart_10.0.26100.1_neutral_neutral_8wekyb3d8bbwe?ms-resource://Microsoft.Windows.NarratorQuickStart/Resources/AppDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:50;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.NarratorQuickStart_10.0.26100.1_neutral_neutral_8wekyb3d8bbwe?ms-resource://Microsoft.Windows.NarratorQuickStart/Resources/AppDisplayName}" new enable=no]
+2026-03-04 22:40:46;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.AAD.BrokerPlugin_1000.19580.1000.2_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.AAD.BrokerPlugin/resources/PackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:46;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.AAD.BrokerPlugin_1000.19580.1000.2_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.AAD.BrokerPlugin/resources/PackageDisplayName}" new enable=no]
+2026-03-04 22:40:46;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.AAD.BrokerPlugin_1000.19580.1000.2_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.AAD.BrokerPlugin/resources/PackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:46;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.AAD.BrokerPlugin_1000.19580.1000.2_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.AAD.BrokerPlugin/resources/PackageDisplayName}" new enable=no]
+2026-03-04 22:40:46;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.LockApp_10.0.26100.4202_neutral__cw5n1h2txyewy?ms-resource://Microsoft.LockApp/resources/AppDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:46;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.LockApp_10.0.26100.4202_neutral__cw5n1h2txyewy?ms-resource://Microsoft.LockApp/resources/AppDisplayName}" new enable=no]
+2026-03-04 22:40:46;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.StartMenuExperienceHost_10.0.26100.4768_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.StartMenuExperienceHost/StartMenuExperienceHost/PkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:46;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.StartMenuExperienceHost_10.0.26100.4768_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.StartMenuExperienceHost/StartMenuExperienceHost/PkgDisplayName}" new enable=no]
+2026-03-04 22:40:46;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.StartMenuExperienceHost_10.0.26100.4768_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.StartMenuExperienceHost/StartMenuExperienceHost/PkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:46;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.StartMenuExperienceHost_10.0.26100.4768_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.StartMenuExperienceHost/StartMenuExperienceHost/PkgDisplayName}" new enable=no]
+2026-03-04 22:40:45;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.FileExp_1000.26100.4.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.FileExp/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:45;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.FileExp_1000.26100.4.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.FileExp/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:45;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.Photon_1000.26100.10.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.Photon/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:45;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.Photon_1000.26100.10.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.Photon/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:45;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.Photon_1000.26100.10.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.Photon/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:45;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.Photon_1000.26100.10.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.Photon/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:44;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.BingNews_4.55.62231.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingNews/Resources/ApplicationTitleWithTagline}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:44;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.BingNews_4.55.62231.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingNews/Resources/ApplicationTitleWithTagline}" new enable=no]
+2026-03-04 22:40:33;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.BingWeather_4.54.63029.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:33;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.BingWeather_4.54.63029.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}" new enable=no]
+2026-03-04 22:40:33;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.BingWeather_4.54.63029.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:33;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.BingWeather_4.54.63029.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}" new enable=no]
+2026-03-04 22:40:32;INFO;[FW WARN] DisableBuiltin could not disable 'Î¼Torrent (TCP-In)': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:32;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="Î¼Torrent (TCP-In)" new enable=no]
+2026-03-04 22:40:32;INFO;[FW WARN] DisableBuiltin could not disable 'Î¼Torrent (UDP-In)': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:32;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="Î¼Torrent (UDP-In)" new enable=no]
+2026-03-04 22:40:32;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.XboxIdentityProvider_12.130.16001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxIdentityProvider/Resources/DisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:32;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.XboxIdentityProvider_12.130.16001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxIdentityProvider/Resources/DisplayName}" new enable=no]
+2026-03-04 22:40:27;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.WindowsCamera_2025.2510.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCamera/LensSDK/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:27;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.WindowsCamera_2025.2510.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCamera/LensSDK/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:27;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.WindowsCamera_2025.2510.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCamera/LensSDK/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:27;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.WindowsCamera_2025.2510.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCamera/LensSDK/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:26;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Edge.GameAssist_1.0.3590.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Edge.GameAssist/Resources/EdgeGameBarPackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:26;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Edge.GameAssist_1.0.3590.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Edge.GameAssist/Resources/EdgeGameBarPackageDisplayName}" new enable=no]
+2026-03-04 22:40:26;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.WindowsCalculator_11.2508.4.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCalculator/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:26;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.WindowsCalculator_11.2508.4.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCalculator/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:23;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.OOBENetworkCaptivePortal_10.0.26495.1000_neutral__cw5n1h2txyewy?ms-resource://Microsoft.Windows.OOBENetworkCaptivePortal/Resources/AppDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:23;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.OOBENetworkCaptivePortal_10.0.26495.1000_neutral__cw5n1h2txyewy?ms-resource://Microsoft.Windows.OOBENetworkCaptivePortal/Resources/AppDisplayName}" new enable=no]
+2026-03-04 22:40:23;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.ShellExperienceHost_10.0.26100.7462_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.ShellExperienceHost/resources/PkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:23;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.ShellExperienceHost_10.0.26100.7462_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.ShellExperienceHost/resources/PkgDisplayName}" new enable=no]
+2026-03-04 22:40:23;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Windows.ShellExperienceHost_10.0.26100.7462_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.ShellExperienceHost/resources/PkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:23;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Windows.ShellExperienceHost_10.0.26100.7462_neutral_neutral_cw5n1h2txyewy?ms-resource://Microsoft.Windows.ShellExperienceHost/resources/PkgDisplayName}" new enable=no]
+2026-03-04 22:40:23;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.GetHelp_10.2409.33293.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:23;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.GetHelp_10.2409.33293.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}" new enable=no]
+2026-03-04 22:40:22;INFO;[FW WARN] DisableBuiltin could not disable '@{AppleInc.AppleMusicWin_1.1538.24068.0_x64__nzyj5cx40ttqa?ms-resource://AppleInc.AppleMusicWin/Resources/AppDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:22;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{AppleInc.AppleMusicWin_1.1538.24068.0_x64__nzyj5cx40ttqa?ms-resource://AppleInc.AppleMusicWin/Resources/AppDisplayName}" new enable=no]
+2026-03-04 22:40:22;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.DesktopAppInstaller_1.27.459.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:22;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.DesktopAppInstaller_1.27.459.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}" new enable=no]
+2026-03-04 22:40:21;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.DesktopAppInstaller_1.27.459.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:21;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.DesktopAppInstaller_1.27.459.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}" new enable=no]
+2026-03-04 22:40:21;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsTerminal/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:21;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsTerminal/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:21;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.StorePurchaseApp_22512.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:21;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.StorePurchaseApp_22512.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}" new enable=no]
+2026-03-04 22:40:21;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.StorePurchaseApp_22512.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:21;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.StorePurchaseApp_22512.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}" new enable=no]
+2026-03-04 22:40:21;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.WindowsAlarms_11.2512.0.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:21;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.WindowsAlarms_11.2512.0.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:21;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.WindowsAlarms_11.2512.0.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:21;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.WindowsAlarms_11.2512.0.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:21;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.ZuneMusic_11.2512.10.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:21;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.ZuneMusic_11.2512.10.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:21;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.ZuneMusic_11.2512.10.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:21;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.ZuneMusic_11.2512.10.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:20;INFO;[FW WARN] DisableBuiltin could not disable '@{Clipchamp.Clipchamp_4.5.10220.0_x64__yxz26nhyzhsrt?ms-resource://Clipchamp.Clipchamp/Resources/Clipchamp/AppName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:20;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Clipchamp.Clipchamp_4.5.10220.0_x64__yxz26nhyzhsrt?ms-resource://Clipchamp.Clipchamp/Resources/Clipchamp/AppName}" new enable=no]
+2026-03-04 22:40:20;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Todos_0.168.6211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Todos/Resources/app_name_ms_todo}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:20;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Todos_0.168.6211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Todos/Resources/app_name_ms_todo}" new enable=no]
+2026-03-04 22:40:20;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.Todos_0.168.6211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Todos/Resources/app_name_ms_todo}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:20;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.Todos_0.168.6211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Todos/Resources/app_name_ms_todo}" new enable=no]
+2026-03-04 22:40:16;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.57242383.Tasbar_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.57242383.Tasbar/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:16;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.57242383.Tasbar_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.57242383.Tasbar/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:16;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.59336768.Speion_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.59336768.Speion/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:16;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.59336768.Speion_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.59336768.Speion/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:16;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.59337133.Voiess_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.59337133.Voiess/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:16;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.59337133.Voiess_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.59337133.Voiess/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:16;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.59337145.Livtop_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.59337145.Livtop/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:16;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.59337145.Livtop_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.59337145.Livtop/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:16;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.59379618.InpApp_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.59379618.InpApp/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:16;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.59379618.InpApp_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.59379618.InpApp/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:16;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.CBS_1000.26100.291.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.CBS/resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:16;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.CBS_1000.26100.291.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.CBS/resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:16;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.CBS_1000.26100.291.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.CBS/resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:16;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.CBS_1000.26100.291.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.CBS/resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:16;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.CoreAI_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.CoreAI/AIXHost/ClickToDo/AppDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:16;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.CoreAI_1000.26100.7824.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.CoreAI/AIXHost/ClickToDo/AppDisplayName}" new enable=no]
+2026-03-04 22:40:15;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.Core_1000.26100.82.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.Core/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:15;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.Core_1000.26100.82.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.Core/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:15;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.Core_1000.26100.82.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.Core/Resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:15;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.Core_1000.26100.82.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.Core/Resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:15;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.OOBE_1000.26100.32.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.OOBE/resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:15;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.OOBE_1000.26100.32.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.OOBE/resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:15;INFO;[FW WARN] DisableBuiltin could not disable '@{MicrosoftWindows.Client.OOBE_1000.26100.32.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.OOBE/resources/ProductPkgDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:15;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{MicrosoftWindows.Client.OOBE_1000.26100.32.0_x64__cw5n1h2txyewy?ms-resource://MicrosoftWindows.Client.OOBE/resources/ProductPkgDisplayName}" new enable=no]
+2026-03-04 22:40:15;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.SecHealthUI_1000.29510.1001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.SecHealthUI/resources/PackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:15;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.SecHealthUI_1000.29510.1001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.SecHealthUI/resources/PackageDisplayName}" new enable=no]
+2026-03-04 22:40:15;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.SecHealthUI_1000.29510.1001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.SecHealthUI/resources/PackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:15;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.SecHealthUI_1000.29510.1001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.SecHealthUI/resources/PackageDisplayName}" new enable=no]
+2026-03-04 22:40:14;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.SecHealthUI_1000.29510.1001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.SecHealthUI/resources/PackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:14;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.SecHealthUI_1000.29510.1001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.SecHealthUI/resources/PackageDisplayName}" new enable=no]
+2026-03-04 22:40:14;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.SecHealthUI_1000.29510.1001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.SecHealthUI/resources/PackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:14;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.SecHealthUI_1000.29510.1001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.SecHealthUI/resources/PackageDisplayName}" new enable=no]
+2026-03-04 22:40:14;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.WindowsFeedbackHub_1.2602.13304.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:14;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.WindowsFeedbackHub_1.2602.13304.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:14;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.WindowsFeedbackHub_1.2602.13304.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:14;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.WindowsFeedbackHub_1.2602.13304.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}" new enable=no]
+2026-03-04 22:40:14;INFO;[FW WARN] DisableBuiltin could not disable '@{Microsoft.StartExperiencesApp_1.229.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StartExperiencesApp/Resources/PackageDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:14;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{Microsoft.StartExperiencesApp_1.229.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StartExperiencesApp/Resources/PackageDisplayName}" new enable=no]
+2026-03-04 22:40:10;INFO;[FW WARN] DisableBuiltin could not disable '@{B9ECED6F.ASUSPCAssistant_4.0.60.0_x64__qmba6cd70vzyy?ms-resource://B9ECED6F.ASUSPCAssistant/Resources/AppDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:10;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{B9ECED6F.ASUSPCAssistant_4.0.60.0_x64__qmba6cd70vzyy?ms-resource://B9ECED6F.ASUSPCAssistant/Resources/AppDisplayName}" new enable=no]
+2026-03-04 22:40:10;INFO;[FW WARN] DisableBuiltin could not disable '@{B9ECED6F.ASUSPCAssistant_4.0.60.0_x64__qmba6cd70vzyy?ms-resource://B9ECED6F.ASUSPCAssistant/Resources/AppDisplayName}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:10;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{B9ECED6F.ASUSPCAssistant_4.0.60.0_x64__qmba6cd70vzyy?ms-resource://B9ECED6F.ASUSPCAssistant/Resources/AppDisplayName}" new enable=no]
+2026-03-04 22:40:10;INFO;[FW WARN] DisableBuiltin could not disable '@{SpotifyAB.SpotifyMusic_1.284.476.0_x64__zpdnekdrzrea0?ms-resource://SpotifyAB.SpotifyMusic/Resources/AppTitle}': netsh failed (exit 1): No rules match the specified criteria.
+2026-03-04 22:40:09;INFO;[FW ERROR] netsh failed (exit 1): No rules match the specified criteria.  args=[advfirewall firewall set rule name="@{SpotifyAB.SpotifyMusic_1.284.476.0_x64__zpdnekdrzrea0?ms-resource://SpotifyAB.SpotifyMusic/Resources/AppTitle}" new enable=no]
+2026-03-04 22:40:08;INFO;[FW] Default inbound policy set to BLOCK (allowoutbound kept)
+2026-03-04 22:39:48;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 22:32:25;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 22:31:22;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-04 14:56:30;APPFW;App firewall ENABLED
+2026-03-04 14:56:29;APPFW;App firewall DISABLED
+2026-03-04 14:55:54;RULE;REMOVED Name=Any_192.168.1.65_32_0_Block, IP=192.168.1.65/32, Port=0, Proto=Any, Act=Block
+2026-03-04 14:55:36;WINFW;Windows Firewall ENABLED
+2026-03-04 14:55:16;APPFW;App firewall ENABLED
+2026-03-04 14:55:09;RULE;ADDED Name=Any_192.168.1.65_0_Block, IP=192.168.1.65, Port=0, Proto=Any, Act=Block
+2026-03-04 14:54:35;INFO;Timed rule expired and removed: FW-Web-415f96f9-4a6b-4c54-a830-d4c99ad399c0
+2026-03-04 14:54:19;APPFW;App firewall DISABLED
+2026-03-04 14:54:17;WINFW;Windows Firewall DISABLED
+2026-03-04 14:53:36;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-02 22:40:38;INFO;[WEB] Rule removed: FW-BlockAll-b4090b3b-8697-4921-b395-512161b7ab22 by tunar (Admin)
+2026-03-02 22:38:03;RULE;REMOVED Name=TCP_8.8.8.8_32_22_Block, IP=8.8.8.8/32, Port=22, Proto=TCP, Act=Block
+2026-03-02 22:37:55;INFO;[WEB] Rule added: FW-Web-415f96f9-4a6b-4c54-a830-d4c99ad399c0 by tunar (Admin)
+2026-03-02 22:37:37;INFO;[WEB] Block ALL added: FW-BlockAll-b4090b3b-8697-4921-b395-512161b7ab22 by tunar (Admin)
+2026-03-02 22:37:33;INFO;[WEB] Windows Firewall OFF by tunar
+2026-03-02 22:37:32;INFO;[WEB] Windows Firewall ON by tunar
+2026-03-02 22:37:26;INFO;[WEB] Login: tunar (Admin)
+2026-03-02 22:37:21;INFO;[WEB] Failed login attempt for ''
+2026-03-02 22:37:18;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-02 22:34:14;APPFW;App firewall DISABLED
+2026-03-02 22:34:11;WINFW;Windows Firewall DISABLED
+2026-03-02 22:34:10;WINFW;Windows Firewall ENABLED
+2026-03-02 22:32:02;INFO;[WEB] Rule removed: FW-19839dfe-5b1c-4b9a-8319-adc61adbc6ca by tunar (Admin)
+2026-03-02 22:31:37;INFO;[WEB] Login: tunar (Admin)
+2026-03-02 22:31:28;INFO;[WEB] Failed login attempt for ''
+2026-03-02 22:31:02;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 22:30:23;RULE;ADDED Name=Any_8.8.8.8_443_Block, IP=8.8.8.8, Port=443, Proto=Any, Act=Block
+2026-03-01 22:30:12;RULE;REMOVED Name=Any_192.168.56.1_32_0_Allow, IP=192.168.56.1/32, Port=0, Proto=Any, Act=Allow
+2026-03-01 22:29:38;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 22:25:06;INFO;[WEB] Failed login attempt for '''
+2026-03-01 22:25:04;INFO;[WEB] Failed login attempt for '''
+2026-03-01 22:23:13;WINFW;Windows Firewall ENABLED
+2026-03-01 22:18:27;INFO;Timed rule expired and removed: FW-e0a474b3-fab7-4ba2-8398-6b7b33bae5f4
+2026-03-01 22:11:24;INFO;[WEB] Login: ayan (Viewer)
+2026-03-01 22:10:01;APPFW;App firewall DISABLED
+2026-03-01 22:09:59;WINFW;Windows Firewall DISABLED
+2026-03-01 22:09:36;RULE;REMOVED Name=Any_192.168.2.45_32_0_Block, IP=192.168.2.45/32, Port=0, Proto=Any, Act=Block
+2026-03-01 22:09:27;INFO;[WEB] Block ALL added: FW-BlockAll-70b012c0-0309-4dbe-9916-4774259cf071 by tunar (Admin)
+2026-03-01 22:09:25;INFO;[WEB] App Rules OFF by tunar
+2026-03-01 22:09:23;INFO;[WEB] App Rules ON by tunar
+2026-03-01 22:09:20;INFO;[WEB] Windows Firewall OFF by tunar
+2026-03-01 22:09:19;INFO;[WEB] Windows Firewall ON by tunar
+2026-03-01 22:09:16;INFO;[WEB] Windows Firewall OFF by tunar
+2026-03-01 22:07:12;INFO;[WEB] Login: tunar (Admin)
+2026-03-01 22:06:17;INFO;[WEB] Failed login attempt for ''
+2026-03-01 22:06:08;RULE;ADDED Name=Any_192.168.2.45_23_Block, IP=192.168.2.45, Port=23, Proto=Any, Act=Block
+2026-03-01 22:05:46;INFO;[WEB] Login: ayan (Viewer)
+2026-03-01 22:05:34;INFO;[WEB] Failed login attempt for ''
+2026-03-01 22:05:27;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 19:01:23;INFO;ICMP auto-block enabled.
+2026-03-01 19:01:21;APPFW;App firewall ENABLED
+2026-03-01 19:01:18;WINFW;Windows Firewall DISABLED
+2026-03-01 19:01:14;APPFW;App firewall DISABLED
+2026-03-01 19:01:11;WINFW;Windows Firewall ENABLED
+2026-03-01 19:00:08;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 17:43:37;WINFW;Windows Firewall DISABLED
+2026-03-01 17:43:36;WINFW;Windows Firewall ENABLED
+2026-03-01 17:43:34;WINFW;Windows Firewall DISABLED
+2026-03-01 17:43:33;APPFW;App firewall ENABLED
+2026-03-01 17:41:29;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 17:40:22;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 17:35:25;INFO;Timed rule expired and removed: FW-ceb63211-c597-4b52-8143-22845241b6eb
+2026-03-01 17:35:25;INFO;Timed rule expired and removed: FW-37eb176b-d98a-47e3-923f-77ffdade273a
+2026-03-01 17:35:25;INFO;Timed rule expired and removed: FW-82411cef-8e9c-4233-8676-8337b59efd39
+2026-03-01 17:35:25;INFO;Timed rule expired and removed: FW-6988ca17-2acc-46ba-9919-9cc70d9e335b
+2026-03-01 17:35:24;INFO;Timed rule expired and removed: FW-5789bb17-a7d8-46c8-af39-dba889b039a1
+2026-03-01 17:29:39;RULE;REMOVED Name=FW-WebUI-2309, IP=Any, Port=2309, Proto=TCP, Act=Allow
+2026-03-01 17:29:16;APPFW;App firewall ENABLED
+2026-03-01 17:28:59;WINFW;Windows Firewall DISABLED
+2026-03-01 17:28:50;WINFW;Windows Firewall ENABLED
+2026-03-01 17:28:48;WINFW;Windows Firewall DISABLED
+2026-03-01 17:28:25;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 17:26:00;RULE;REMOVED Name=Any_192.168.1.25_32_0_Block, IP=192.168.1.25/32, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:59;RULE;REMOVED Name=Any_192.168.1.25_32_0_Block, IP=192.168.1.25/32, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:56;RULE;REMOVED Name=Any_192.168.1.25_32_0_Block, IP=192.168.1.25/32, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:54;RULE;REMOVED Name=Any_192.168.1.16_32_0_Block, IP=192.168.1.16/32, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:24;RULE;REMOVED Name=Any_192.168.1.25_32_0_Block, IP=192.168.1.25/32, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:21;RULE;REMOVED Name=Any_192.168.1.25_32_0_Block, IP=192.168.1.25/32, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:19;RULE;ADDED Name=Any_192.168.1.25_0_Block, IP=192.168.1.25, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:18;RULE;ADDED Name=Any_192.168.1.25_0_Block, IP=192.168.1.25, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:17;RULE;ADDED Name=Any_192.168.1.25_0_Block, IP=192.168.1.25, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:15;RULE;ADDED Name=Any_192.168.1.25_0_Block, IP=192.168.1.25, Port=0, Proto=Any, Act=Block
+2026-03-01 17:25:14;RULE;ADDED Name=Any_192.168.1.25_0_Block, IP=192.168.1.25, Port=0, Proto=Any, Act=Block
+2026-03-01 17:19:22;INFO;ICMP auto-block disabled.
+2026-03-01 17:19:21;INFO;ICMP auto-block enabled.
+2026-03-01 17:19:21;INFO;ICMP auto-block disabled.
+2026-03-01 17:19:20;INFO;ICMP auto-block enabled.
+2026-03-01 17:19:09;WINFW;Windows Firewall DISABLED
+2026-03-01 17:19:09;APPFW;App firewall DISABLED
+2026-03-01 17:19:08;APPFW;App firewall ENABLED
+2026-03-01 17:19:08;APPFW;App firewall DISABLED
+2026-03-01 17:19:06;APPFW;App firewall ENABLED
+2026-03-01 17:18:55;APPFW;App firewall DISABLED
+2026-03-01 17:18:55;APPFW;App firewall DISABLED
+2026-03-01 17:18:53;APPFW;App firewall DISABLED
+2026-03-01 17:18:51;WINFW;Windows Firewall ENABLED
+2026-03-01 17:18:50;WINFW;Windows Firewall ENABLED
+2026-03-01 17:18:48;WINFW;Windows Firewall DISABLED
+2026-03-01 17:18:44;APPFW;App firewall ENABLED
+2026-03-01 17:18:41;WINFW;Windows Firewall ENABLED
+2026-03-01 17:18:39;WINFW;Windows Firewall ENABLED
+2026-03-01 17:18:36;APPFW;App firewall DISABLED
+2026-03-01 17:18:34;WINFW;Windows Firewall DISABLED
+2026-03-01 17:18:33;WINFW;Windows Firewall DISABLED
+2026-03-01 17:17:55;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 17:01:06;INFO;Timed rule expired and removed: FW-Web-751a526f-70fc-41c3-9b83-cb715d4f7a5a
+2026-03-01 17:01:06;INFO;Timed rule expired and removed: FW-Web-367ac8e4-d737-4630-8d3f-99ea53909612
+2026-03-01 17:01:06;INFO;Timed rule expired and removed: FW-Web-5dcff823-091b-40a6-8528-f1e6eea639a7
+2026-03-01 17:01:06;INFO;Timed rule expired and removed: FW-Web-90bcc6b5-ce91-466e-96f5-edde10967379
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-6b423ab9-5ad2-4208-982a-357a01ba9dc3
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-714bbdec-5a78-44d5-836a-66e22bd56041
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-41708bbc-97b5-404d-a13d-00a998856e0f
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-26535f9f-861e-4162-95e2-90c59cfa5af1
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-5f3ac38c-e15b-4d14-88ab-6aac50fd4994
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-c3d04cf4-bb52-4415-9eb4-e32e198ee79d
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-df64d403-1475-42a1-aa36-0a4e9a5a0c02
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-389be93b-e90d-4b21-a1aa-23c34194c9f7
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-f3cc1cee-0775-48fc-ac91-199e36666910
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-ef2969e6-5293-4e22-93d0-519a4d190f44
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-ec2dea46-0836-4140-837d-a319c43f1a4a
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-08b4d46b-b10b-482d-b432-8a1ee69aac8b
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-c9e254fe-2ab5-46ed-8e02-7b91d3fe3493
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-79d9644b-259c-41f0-ba02-b57151ec7115
+2026-03-01 17:01:05;INFO;Timed rule expired and removed: FW-Web-546231d2-37c3-42ab-b132-a415643cc0d1
+2026-03-01 17:01:04;INFO;Timed rule expired and removed: FW-Web-da831ef1-30da-4590-af03-f5bf42a59857
+2026-03-01 17:00:05;INFO;[WEB] started: http://localhost:2309/  |  LAN: http://192.168.1.70:2309/
+2026-03-01 16:17:22;INFO;[WEB] Rule removed: FW-Web-c3d04cf4-bb52-4415-9eb4-e32e198ee79d by tunar(Admin)
+2026-03-01 16:17:20;INFO;[WEB] Rule removed: FW-Web-41708bbc-97b5-404d-a13d-00a998856e0f by tunar(Admin)
+2026-03-01 16:17:19;INFO;[WEB] Rule removed: FW-Web-5dcff823-091b-40a6-8528-f1e6eea639a7 by tunar(Admin)
+2026-03-01 16:17:17;INFO;[WEB] Rule removed: FW-Web-6b423ab9-5ad2-4208-982a-357a01ba9dc3 by tunar(Admin)
+2026-03-01 16:17:14;INFO;[WEB] Rule removed: FW-Web-714bbdec-5a78-44d5-836a-66e22bd56041 by tunar(Admin)
+2026-03-01 16:17:11;INFO;[WEB] Rule removed: FW-Web-90bcc6b5-ce91-466e-96f5-edde10967379 by tunar(Admin)
+2026-03-01 16:17:10;INFO;[WEB] Rule removed: FW-Web-367ac8e4-d737-4630-8d3f-99ea53909612 by tunar(Admin)
+2026-03-01 16:17:10;INFO;[WEB] Rule removed: FW-Web-367ac8e4-d737-4630-8d3f-99ea53909612 by tunar(Admin)
+2026-03-01 16:17:09;INFO;[WEB] Rule removed: FW-Web-751a526f-70fc-41c3-9b83-cb715d4f7a5a by tunar(Admin)
+2026-03-01 16:17:08;INFO;[WEB] Rule removed: FW-Web-26535f9f-861e-4162-95e2-90c59cfa5af1 by tunar(Admin)
+2026-03-01 16:17:07;INFO;[WEB] Rule removed: FW-Web-5f3ac38c-e15b-4d14-88ab-6aac50fd4994 by tunar(Admin)
+2026-03-01 16:17:07;INFO;[WEB] Rule removed: FW-Web-5f3ac38c-e15b-4d14-88ab-6aac50fd4994 by tunar(Admin)
+2026-03-01 16:17:07;INFO;[WEB] Rule removed: FW-Web-df64d403-1475-42a1-aa36-0a4e9a5a0c02 by tunar(Admin)
+2026-03-01 16:17:06;INFO;[WEB] Rule removed: FW-Web-df64d403-1475-42a1-aa36-0a4e9a5a0c02 by tunar(Admin)
+2026-03-01 16:17:06;INFO;[WEB] Rule removed: FW-Web-df64d403-1475-42a1-aa36-0a4e9a5a0c02 by tunar(Admin)
+2026-03-01 16:17:06;INFO;[WEB] Rule removed: FW-Web-df64d403-1475-42a1-aa36-0a4e9a5a0c02 by tunar(Admin)
+2026-03-01 16:17:06;INFO;[WEB] Rule removed: FW-Web-389be93b-e90d-4b21-a1aa-23c34194c9f7 by tunar(Admin)
+2026-03-01 16:17:05;INFO;[WEB] Rule removed: FW-Web-389be93b-e90d-4b21-a1aa-23c34194c9f7 by tunar(Admin)
+2026-03-01 16:17:05;INFO;[WEB] Rule removed: FW-Web-389be93b-e90d-4b21-a1aa-23c34194c9f7 by tunar(Admin)
+2026-03-01 16:17:05;INFO;[WEB] Rule removed: FW-Web-389be93b-e90d-4b21-a1aa-23c34194c9f7 by tunar(Admin)
+2026-03-01 16:17:05;INFO;[WEB] Rule removed: FW-Web-389be93b-e90d-4b21-a1aa-23c34194c9f7 by tunar(Admin)
+2026-03-01 16:17:04;INFO;[WEB] Rule removed: FW-Web-f3cc1cee-0775-48fc-ac91-199e36666910 by tunar(Admin)
+2026-03-01 16:17:04;INFO;[WEB] Rule removed: FW-Web-f3cc1cee-0775-48fc-ac91-199e36666910 by tunar(Admin)
+2026-03-01 16:17:04;INFO;[WEB] Rule removed: FW-Web-f3cc1cee-0775-48fc-ac91-199e36666910 by tunar(Admin)
+2026-03-01 16:17:03;INFO;[WEB] Rule removed: FW-Web-ef2969e6-5293-4e22-93d0-519a4d190f44 by tunar(Admin)
+2026-03-01 16:17:03;INFO;[WEB] Rule removed: FW-Web-ef2969e6-5293-4e22-93d0-519a4d190f44 by tunar(Admin)
+2026-03-01 16:17:03;INFO;[WEB] Rule removed: FW-Web-ef2969e6-5293-4e22-93d0-519a4d190f44 by tunar(Admin)
+2026-03-01 16:17:02;INFO;[WEB] Rule removed: FW-Web-ef2969e6-5293-4e22-93d0-519a4d190f44 by tunar(Admin)
+2026-03-01 16:17:02;INFO;[WEB] Rule removed: FW-Web-ef2969e6-5293-4e22-93d0-519a4d190f44 by tunar(Admin)
+2026-03-01 16:17:02;INFO;[WEB] Rule removed: FW-Web-ec2dea46-0836-4140-837d-a319c43f1a4a by tunar(Admin)
+2026-03-01 16:17:02;INFO;[WEB] Rule removed: FW-Web-ec2dea46-0836-4140-837d-a319c43f1a4a by tunar(Admin)
+2026-03-01 16:17:02;INFO;[WEB] Rule removed: FW-Web-ec2dea46-0836-4140-837d-a319c43f1a4a by tunar(Admin)
+2026-03-01 16:17:02;INFO;[WEB] Rule removed: FW-Web-ec2dea46-0836-4140-837d-a319c43f1a4a by tunar(Admin)
+2026-03-01 16:17:01;INFO;[WEB] Rule removed: FW-Web-ec2dea46-0836-4140-837d-a319c43f1a4a by tunar(Admin)
+2026-03-01 16:17:01;INFO;[WEB] Rule removed: FW-Web-ec2dea46-0836-4140-837d-a319c43f1a4a by tunar(Admin)
+2026-03-01 16:17:01;INFO;[WEB] Rule removed: FW-Web-08b4d46b-b10b-482d-b432-8a1ee69aac8b by tunar(Admin)
+2026-03-01 16:17:01;INFO;[WEB] Rule removed: FW-Web-08b4d46b-b10b-482d-b432-8a1ee69aac8b by tunar(Admin)
+2026-03-01 16:17:00;INFO;[WEB] Rule removed: FW-Web-08b4d46b-b10b-482d-b432-8a1ee69aac8b by tunar(Admin)
+2026-03-01 16:17:00;INFO;[WEB] Rule removed: FW-Web-08b4d46b-b10b-482d-b432-8a1ee69aac8b by tunar(Admin)
+2026-03-01 16:17:00;INFO;[WEB] Rule removed: FW-Web-c9e254fe-2ab5-46ed-8e02-7b91d3fe3493 by tunar(Admin)
+2026-03-01 16:17:00;INFO;[WEB] Rule removed: FW-Web-c9e254fe-2ab5-46ed-8e02-7b91d3fe3493 by tunar(Admin)
+2026-03-01 16:17:00;INFO;[WEB] Rule removed: FW-Web-c9e254fe-2ab5-46ed-8e02-7b91d3fe3493 by tunar(Admin)
+2026-03-01 16:16:59;INFO;[WEB] Rule removed: FW-Web-c9e254fe-2ab5-46ed-8e02-7b91d3fe3493 by tunar(Admin)
+2026-03-01 16:16:59;INFO;[WEB] Rule removed: FW-Web-c9e254fe-2ab5-46ed-8e02-7b91d3fe3493 by tunar(Admin)
+2026-03-01 16:16:59;INFO;[WEB] Rule removed: FW-Web-c9e254fe-2ab5-46ed-8e02-7b91d3fe3493 by tunar(Admin)
+2026-03-01 16:16:59;INFO;[WEB] Rule removed: FW-Web-79d9644b-259c-41f0-ba02-b57151ec7115 by tunar(Admin)
+2026-03-01 16:16:59;INFO;[WEB] Rule removed: FW-Web-79d9644b-259c-41f0-ba02-b57151ec7115 by tunar(Admin)
+2026-03-01 16:16:58;INFO;[WEB] Rule removed: FW-Web-79d9644b-259c-41f0-ba02-b57151ec7115 by tunar(Admin)
+2026-03-01 16:16:58;INFO;[WEB] Rule removed: FW-Web-79d9644b-259c-41f0-ba02-b57151ec7115 by tunar(Admin)
+2026-03-01 16:16:58;INFO;[WEB] Rule removed: FW-Web-546231d2-37c3-42ab-b132-a415643cc0d1 by tunar(Admin)
+2026-03-01 16:16:57;INFO;[WEB] Rule removed: FW-Web-546231d2-37c3-42ab-b132-a415643cc0d1 by tunar(Admin)
+2026-03-01 16:16:56;INFO;[WEB] Rule removed: FW-Web-da831ef1-30da-4590-af03-f5bf42a59857 by tunar(Admin)
+2026-03-01 16:06:43;INFO;[WEB] Rule added: FW-Web-751a526f-70fc-41c3-9b83-cb715d4f7a5a by tunar(Admin)
+2026-03-01 16:06:42;INFO;[WEB] Rule added: FW-Web-367ac8e4-d737-4630-8d3f-99ea53909612 by tunar(Admin)
+2026-03-01 16:06:42;INFO;[WEB] Rule added: FW-Web-5dcff823-091b-40a6-8528-f1e6eea639a7 by tunar(Admin)
+2026-03-01 16:06:42;INFO;[WEB] Rule added: FW-Web-90bcc6b5-ce91-466e-96f5-edde10967379 by tunar(Admin)
+2026-03-01 16:06:42;INFO;[WEB] Rule added: FW-Web-6b423ab9-5ad2-4208-982a-357a01ba9dc3 by tunar(Admin)
+2026-03-01 16:06:42;INFO;[WEB] Rule added: FW-Web-714bbdec-5a78-44d5-836a-66e22bd56041 by tunar(Admin)
+2026-03-01 16:06:42;INFO;[WEB] Rule added: FW-Web-41708bbc-97b5-404d-a13d-00a998856e0f by tunar(Admin)
+2026-03-01 16:06:41;INFO;[WEB] Rule added: FW-Web-26535f9f-861e-4162-95e2-90c59cfa5af1 by tunar(Admin)
+2026-03-01 16:06:41;INFO;[WEB] Rule added: FW-Web-5f3ac38c-e15b-4d14-88ab-6aac50fd4994 by tunar(Admin)
+2026-03-01 16:06:41;INFO;[WEB] Rule added: FW-Web-c3d04cf4-bb52-4415-9eb4-e32e198ee79d by tunar(Admin)
+2026-03-01 16:06:41;INFO;[WEB] Rule added: FW-Web-df64d403-1475-42a1-aa36-0a4e9a5a0c02 by tunar(Admin)
+2026-03-01 16:06:41;INFO;[WEB] Rule added: FW-Web-389be93b-e90d-4b21-a1aa-23c34194c9f7 by tunar(Admin)
+2026-03-01 16:06:41;INFO;[WEB] Rule added: FW-Web-f3cc1cee-0775-48fc-ac91-199e36666910 by tunar(Admin)
+2026-03-01 16:06:40;INFO;[WEB] Rule added: FW-Web-ef2969e6-5293-4e22-93d0-519a4d190f44 by tunar(Admin)
+2026-03-01 16:06:40;INFO;[WEB] Rule added: FW-Web-ec2dea46-0836-4140-837d-a319c43f1a4a by tunar(Admin)
+2026-03-01 16:06:40;INFO;[WEB] Rule added: FW-Web-08b4d46b-b10b-482d-b432-8a1ee69aac8b by tunar(Admin)
+2026-03-01 16:06:40;INFO;[WEB] Rule added: FW-Web-c9e254fe-2ab5-46ed-8e02-7b91d3fe3493 by tunar(Admin)
+2026-03-01 16:05:32;INFO;[WEB] Rule added: FW-Web-79d9644b-259c-41f0-ba02-b57151ec7115 by tunar(Admin)
+2026-03-01 16:04:09;INFO;[WEB] Rule added: FW-Web-546231d2-37c3-42ab-b132-a415643cc0d1 by tunar(Admin)
+2026-03-01 16:03:22;INFO;Timed rule expired and removed: FW-Web-ef87d5ca-3fd6-4681-919b-62fe4da4d198
+2026-03-01 16:03:17;INFO;[WEB] Rule added: FW-Web-da831ef1-30da-4590-af03-f5bf42a59857 by tunar(Admin)
+2026-03-01 16:02:22;INFO;[WEB] started: http://localhost:2309/
+2026-02-19 15:48:34;APPFW;App firewall ENABLED
+2026-02-19 15:48:21;WINFW;Windows Firewall DISABLED
+2026-02-19 15:47:04;INFO;[WEB] Rule removed: FW-Web-ef87d5ca-3fd6-4681-919b-62fe4da4d198 by tunar(Admin)
+2026-02-19 15:46:42;INFO;[WEB] Rule added: FW-Web-ef87d5ca-3fd6-4681-919b-62fe4da4d198 by tunar(Admin)
+2026-02-19 15:45:39;INFO;[WEB] started: http://localhost:2309/
+2025-12-31 12:08:01;PING;PING 192.168.1.69 => Success, time=435ms
+2025-12-31 12:08:01;PING;PING 192.168.1.69 => Success, time=868ms
+2025-12-31 12:08:00;PING;PING 192.168.1.69 => Success, time=792ms
+2025-12-31 12:07:58;PING;PING 192.168.1.69 => Success, time=544ms
+2025-12-31 12:07:57;PING;PING 192.168.1.69 => Success, time=434ms
+2025-12-31 12:07:56;PING;PING 192.168.1.69 => Success, time=399ms
+2025-12-31 12:07:55;PING;PING 192.168.1.69 => Success, time=776ms
+2025-12-31 12:07:54;PING;PING 192.168.1.69 => Success, time=815ms
+2025-12-31 12:07:52;PING;PING 192.168.1.69 => Success, time=47ms
+2025-12-31 10:52:40;INFO;Timed rule expired and removed: FW-1a950b9f-63ca-4a14-9114-5b6d6439cb11
+2025-12-31 10:46:40;INFO;Timed rule expired and removed: FW-97f6bdd6-7128-48f3-a3a4-1ba88468b550
+2025-12-31 10:45:40;INFO;Timed rule expired and removed: FW-602a075c-d4ed-4e7c-a0d5-39fb2e0cf8fb
+2025-12-31 10:23:12;WINFW;Windows Firewall DISABLED
+2025-12-31 10:23:12;APPFW;App firewall ENABLED
+2025-12-31 10:23:10;WINFW;Windows Firewall ENABLED
+2025-12-31 10:21:52;RULE;ADDED Name=Any_192.168.1.23_443_Block, IP=192.168.1.23, Port=443, Proto=Any, Act=Block
+2025-12-31 10:21:28;RULE;ADDED Name=Any_192.168.1.16_25_Block, IP=192.168.1.16, Port=25, Proto=Any, Act=Block
+2025-12-31 10:21:00;RULE;ADDED Name=Any_192.168.1.8_22_Allow, IP=192.168.1.8, Port=22, Proto=Any, Act=Allow
+2025-12-31 10:20:41;RULE;REMOVED Name=Any_Any_0_Block, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-31 10:20:34;RULE;ADDED Name=TCP_192.168.1.4_23_Block, IP=192.168.1.4, Port=23, Proto=TCP, Act=Block
+2025-12-31 10:19:41;INFO;[WEB] started: http://localhost:2309/
+2025-12-30 23:55:29;RULE;REMOVED Name=Any_Any_0_Block, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-30 23:55:29;RULE;REMOVED Name=Any_Any_0_Block, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-30 23:55:28;RULE;REMOVED Name=Any_Any_0_Block, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-30 23:54:58;INFO;[WEB] My Firewall OFF
+2025-12-30 23:54:55;INFO;[WEB] My Firewall ON
+2025-12-30 23:54:51;INFO;[WEB] Windows Firewall OFF
+2025-12-30 23:54:49;INFO;[WEB] Windows Firewall ON
+2025-12-30 23:53:29;INFO;[WEB] My Firewall ON
+2025-12-30 23:53:16;INFO;[WEB] Block ALL added: FW-BlockAll-417040ba-1ed2-4f84-a45f-66b5a5e10fca by tunar(Admin)
+2025-12-30 23:53:15;INFO;[WEB] Block ALL added: FW-BlockAll-5d1249af-6149-4bc8-a2fa-75221796c794 by tunar(Admin)
+2025-12-30 23:53:14;INFO;[WEB] Block ALL added: FW-BlockAll-ff2d6483-662c-4fc1-a44a-9d3bbe1192f2 by tunar(Admin)
+2025-12-30 23:53:10;INFO;[WEB] Block ALL added: FW-BlockAll-04266d7d-536e-4de8-a01f-cd4ad701191d by tunar(Admin)
+2025-12-30 23:52:57;INFO;[WEB] started: http://localhost:2309/
+2025-12-30 23:16:12;INFO;[WEB] My Firewall ON
+2025-12-30 23:16:10;INFO;[WEB] My Firewall ON
+2025-12-30 23:15:39;INFO;[WEB] Windows Firewall OFF
+2025-12-30 23:15:35;INFO;[WEB] Windows Firewall ON
+2025-12-30 22:47:08;INFO;[WEB] started: http://localhost:2309/
+2025-12-30 22:20:54;INFO;[WEB] started: http://localhost:2309/
+2025-12-30 22:13:19;INFO;[WEB] started: http://localhost:2309/
+2025-12-30 22:10:57;INFO;[WEB] started: http://localhost:2323/
+2025-12-30 22:09:28;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 22:07:57;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 22:05:03;INFO;Timed rule expired and removed: FW-Web-5f187706-1d7e-412f-a1cb-7e84f636d735
+2025-12-30 22:05:03;INFO;Timed rule expired and removed: FW-Web-364cd612-f79a-47ee-bc96-4f5b9a109c5b
+2025-12-30 22:05:02;INFO;Timed rule expired and removed: FW-Web-3e17a641-9777-4fbc-bc57-2cc2498cf293
+2025-12-30 22:02:03;INFO;Timed rule expired and removed: FW-963dd077-0e36-4736-9e57-a89f8f105bdc
+2025-12-30 22:02:03;INFO;Timed rule expired and removed: FW-d836afa2-237e-4b0b-9387-89027d70c355
+2025-12-30 22:02:03;INFO;Timed rule expired and removed: FW-ba0fd260-820b-4f31-b7b8-500d88ff2de1
+2025-12-30 22:02:03;INFO;Timed rule expired and removed: FW-8c580ae9-81d1-4048-a3b2-885a430bdca3
+2025-12-30 22:02:03;INFO;Timed rule expired and removed: FW-f9bc5b77-1351-46f7-951f-ef97a4ecaecf
+2025-12-30 22:02:03;INFO;Timed rule expired and removed: FW-9ddf7c85-9c44-460b-b66f-62c35d433711
+2025-12-30 22:02:03;INFO;Timed rule expired and removed: FW-60244845-f22b-4c18-a3bd-27eaf809f30f
+2025-12-30 22:02:02;INFO;Timed rule expired and removed: FW-Web-cd99e379-01e0-4c8c-84b9-d8685f93f46b
+2025-12-30 21:59:25;INFO;[WEB] Rule removed: FW-BlockAll-270f7b26-10cc-4986-8c8f-b703658d9034 by tunar(Admin)
+2025-12-30 21:59:23;INFO;[WEB] Rule removed: FW-BlockAll-20164e41-b044-4d31-8f3e-b28acef8be24 by tunar(Admin)
+2025-12-30 21:59:22;INFO;[WEB] Rule removed: FW-BlockAll-2f582cfc-3ce0-4cf2-93c0-643b084fb82b by tunar(Admin)
+2025-12-30 21:59:21;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:59:19;INFO;[WEB] Windows Firewall ON
+2025-12-30 21:59:18;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:59:17;INFO;[WEB] My Firewall OFF
+2025-12-30 21:59:14;INFO;[WEB] My Firewall ON
+2025-12-30 21:59:11;INFO;[WEB] Block ALL added: FW-BlockAll-2f582cfc-3ce0-4cf2-93c0-643b084fb82b by tunar(Admin)
+2025-12-30 21:59:03;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 21:58:10;INFO;[WEB] Block ALL added: FW-BlockAll-270f7b26-10cc-4986-8c8f-b703658d9034 by tunar(Admin)
+2025-12-30 21:58:09;INFO;[WEB] Block ALL added: FW-BlockAll-20164e41-b044-4d31-8f3e-b28acef8be24 by tunar(Admin)
+2025-12-30 21:57:39;INFO;[WEB] My Firewall OFF
+2025-12-30 21:57:37;INFO;[WEB] My Firewall ON
+2025-12-30 21:57:35;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:57:33;INFO;[WEB] Windows Firewall ON
+2025-12-30 21:57:15;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 21:56:25;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 21:52:04;RULE;REMOVED Name=Any_192.168.5.5_32_0_Block, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-30 21:52:04;RULE;REMOVED Name=Any_192.168.5.5_32_0_Block, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-30 21:52:03;RULE;REMOVED Name=Any_192.168.5.5_32_0_Block, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-30 21:52:02;RULE;REMOVED Name=Any_192.168.5.5_32_0_Block, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-30 21:52:01;RULE;REMOVED Name=Any_192.168.5.5_32_0_Block, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:59;RULE;REMOVED Name=Any_192.168.5.5_32_0_Block, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:55;RULE;ADDED Name=Any_192.168.5.5_0_Block, IP=192.168.5.5, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:54;RULE;ADDED Name=Any_192.168.5.5_0_Block, IP=192.168.5.5, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:53;RULE;ADDED Name=Any_192.168.5.5_0_Block, IP=192.168.5.5, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:53;RULE;ADDED Name=Any_192.168.5.5_0_Block, IP=192.168.5.5, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:52;RULE;ADDED Name=Any_192.168.5.5_0_Block, IP=192.168.5.5, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:52;RULE;ADDED Name=Any_192.168.5.5_0_Block, IP=192.168.5.5, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:50;RULE;REMOVED Name=Any_Any_0_Block, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:49;RULE;REMOVED Name=Any_192.168.5.5_32_0_Block, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:47;RULE;REMOVED Name=Any_192.168.5.5_32_0_Block, IP=192.168.5.5/32, Port=0, Proto=Any, Act=Block
+2025-12-30 21:51:19;RULE;ADDED Name=Any_192.168.5.5_0_Block, IP=192.168.5.5, Port=0, Proto=Any, Act=Block
+2025-12-30 21:49:12;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:49:10;INFO;[WEB] Windows Firewall ON
+2025-12-30 21:47:31;INFO;Timed rule expired and removed: FW-842a3cc2-58fc-4d60-b13e-20b8f7b5e969
+2025-12-30 21:45:55;INFO;[WEB] Rule added: FW-Web-b62709d2-0f74-47c2-805e-1c4f2969b14b by tunar(Admin)
+2025-12-30 21:45:41;INFO;[WEB] Block ALL added: FW-BlockAll-eccdb8b8-626c-4e88-bbb4-6f61bbde64ad by tunar(Admin)
+2025-12-30 21:45:31;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 21:40:54;INFO;[WEB] Rule removed: FW-Web-cd99e379-01e0-4c8c-84b9-d8685f93f46b by tunar(Admin)
+2025-12-30 21:40:53;INFO;[WEB] Rule removed: FW-Web-3e17a641-9777-4fbc-bc57-2cc2498cf293 by tunar(Admin)
+2025-12-30 21:40:52;INFO;[WEB] Rule removed: FW-Web-364cd612-f79a-47ee-bc96-4f5b9a109c5b by tunar(Admin)
+2025-12-30 21:40:51;INFO;[WEB] Rule removed: FW-Web-5f187706-1d7e-412f-a1cb-7e84f636d735 by tunar(Admin)
+2025-12-30 21:39:14;INFO;[WEB] Rule added: FW-Web-5f187706-1d7e-412f-a1cb-7e84f636d735 by tunar(Admin)
+2025-12-30 21:39:09;INFO;[WEB] Rule added: FW-Web-364cd612-f79a-47ee-bc96-4f5b9a109c5b by tunar(Admin)
+2025-12-30 21:39:05;INFO;[WEB] Rule added: FW-Web-3e17a641-9777-4fbc-bc57-2cc2498cf293 by tunar(Admin)
+2025-12-30 21:39:02;INFO;[WEB] Rule added: FW-Web-cd99e379-01e0-4c8c-84b9-d8685f93f46b by tunar(Admin)
+2025-12-30 21:38:28;INFO;[WEB] Rule removed: FW-842a3cc2-58fc-4d60-b13e-20b8f7b5e969 by tunar(Admin)
+2025-12-30 21:38:22;INFO;[WEB] Rule removed: FW-BlockAll-c56dda27-9899-4187-ae2a-02515a8fb182 by tunar(Admin)
+2025-12-30 21:38:19;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:38:09;INFO;Timed rule expired and removed: FW-1da5d8ca-a210-4147-9782-2e8bc5770700
+2025-12-30 21:38:09;INFO;Timed rule expired and removed: FW-89922a0c-5270-44b3-bed5-ad257bebdd5d
+2025-12-30 21:38:05;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:38:03;INFO;[WEB] Windows Firewall ON
+2025-12-30 21:37:21;RULE;ADDED_BLOCK_ALL Name=Any_Any_0_Block, IP=Any, Port=0, Proto=Any, Act=Block
+2025-12-30 21:37:18;RULE;ADDED Name=Any_23.23.23.23_23_Block, IP=23.23.23.23, Port=23, Proto=Any, Act=Block
+2025-12-30 21:37:09;INFO;[WEB] started: http://localhost:5055/
+2025-12-30 21:34:22;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:34:17;INFO;[WEB] Windows Firewall ON
+2025-12-30 21:34:10;INFO;Timed rule expired and removed: FW-Web-5ce185e6-647f-4721-a309-d37ee4e9e570
+2025-12-30 21:31:01;APPFW;App firewall DISABLED
+2025-12-30 21:31:00;APPFW;App firewall ENABLED
+2025-12-30 21:30:59;WINFW;Windows Firewall ENABLED
+2025-12-30 21:30:58;WINFW;Windows Firewall DISABLED
+2025-12-30 21:29:06;INFO;[WEB] Windows Firewall OFF
+2025-12-30 21:28:53;INFO;[WEB] Rule removed: FW-1da5d8ca-a210-4147-9782-2e8bc5770700 by tunar(Admin)
