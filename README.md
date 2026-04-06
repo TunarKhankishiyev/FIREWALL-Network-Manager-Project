@@ -15,7 +15,7 @@
 
 ## 📸 Overview
 
-AX Firewall is a full-featured Windows Firewall manager built on .NET 8 (WinForms). It wraps the Windows `netsh advfirewall` API into a polished UI, adds role-based authentication, a real-time ICMP auto-block engine, timed rules, rule profiles, and exposes everything through a built-in local web server — so you can manage your firewall from a phone or another machine on the same LAN.
+Firewall is a full-featured Windows Firewall manager built on .NET 8 (WinForms). It wraps the Windows `netsh advfirewall` API into a polished UI, adds role-based authentication, a real-time ICMP auto-block engine, timed rules, rule profiles, and exposes everything through a built-in local web server — so you can manage your firewall from a phone or another machine on the same LAN.
 
 ---
 
