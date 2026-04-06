@@ -5,7 +5,7 @@
 ![Framework](https://img.shields.io/badge/.NET-8.0-purple?style=flat-square)
 ![Language](https://img.shields.io/badge/language-C%23-239120?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Version](https://img.shields.io/badge/version-2.5-orange?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0-orange?style=flat-square)
 
 **A professional Windows Firewall management application with a desktop GUI and a built-in web interface — manage your firewall rules from any device on your local network.**
 
