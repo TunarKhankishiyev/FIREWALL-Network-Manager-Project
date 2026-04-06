@@ -279,17 +279,6 @@ Firewall-Commercial V1.0/
 | Network | LAN access to port `2309` for web UI |
 | Windows Firewall Logging | Enable in Windows Security → Firewall → Advanced Settings for auto-block engine to function |
 
----
-
-## 🗺️ Roadmap
-
-- [ ] Password hashing (bcrypt / Argon2)
-- [ ] HTTPS support for the web server
-- [ ] Outbound rule management
-- [ ] IPv6 support
-- [ ] Real-time log streaming via WebSocket
-- [ ] Dark / Light theme toggle in web UI
-- [ ] Docker-style rule templates
 
 ---
 
