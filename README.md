@@ -87,7 +87,7 @@ The address is displayed in the desktop app header. The web UI mirrors all deskt
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tunarkhankishiyev/FIREWALL-Network-Manager-Project.git
+   git clone https://github.com/TunarKhankishiyev/FIREWALL-Network-Manager-Project.git
    cd Firewall-Commercial V1.0
    ```
 
