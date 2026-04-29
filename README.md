@@ -1,4 +1,4 @@
-# 🔥 FIREWALL-Network-Manager-Project
+# 🔥 FIREWALL-Manager
 <div align="center">
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)
